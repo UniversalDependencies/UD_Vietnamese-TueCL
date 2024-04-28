@@ -1,0 +1,2423 @@
+# sent_id = OpenSubtitles-168683
+# text = Ngay cả thức ăn anh ăn và cái chai đó cũng đã được quyên góp cho chúng tôi .
+# text_eng = Even the food you ate and that bottle were donated to us .
+1	Ngay cả	ngay cả	ADV	_	_	2	advmod	_	_
+2	thức ăn	thức ăn	NOUN	_	_	12	nsubj:pass	_	_
+3	anh	anh	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	ăn	ăn	VERB	_	_	2	acl:relcl	_	_
+5	và	và	CCONJ	_	_	7	cc	_	_
+6	cái	cái	NOUN	_	NounType=Clf	7	clf	_	_
+7	chai	chai	NOUN	_	_	2	conj	_	_
+8	đó	đó	DET	_	Deixis=Remt|PronType=Dem	7	det	_	_
+9	cũng	cũng	ADV	_	_	12	advmod	_	_
+10	đã	đã	ADV	_	AdvType=Tim|Tense=Past	12	advmod	_	_
+11	được	được	AUX	_	VerbType=Aux|Voice=Pass	12	aux:pass	_	_
+12	quyên góp	quyên góp	VERB	_	_	0	root	_	_
+13	cho	cho	ADP	_	_	14	case	_	_
+14	chúng tôi	chúng tôi	PRON	_	Number=Plur|Person=1|PronType=Prs	12	obl	_	_
+15	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-188665
+# text = Mày đang thắc mắc không biết tụi tao từ đâu tới, phải không ?
+# text_eng = You're wonderin' where I came from, ain't ya ?
+# 'tụi' is a pluralizing particle for pronouns
+1	Mày	mày	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	3	nsubj	_	_
+2	đang	đang	ADV	_	AdvType=Tim|Tense=Pres	3	advmod	_	_
+3	thắc mắc	thắc mắc	VERB	_	_	0	root	_	_
+4	không	không	ADV	_	Polarity=Neg	5	advmod	_	_
+5	biết	biết	VERB	_	_	3	xcomp	_	_
+6	tụi	tụi	PART	_	Number=Plur	7	compound	_	_
+7	tao	tao	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	10	nsubj	_	_
+8	từ	từ	ADP	_	_	9	case	_	_
+9	đâu	đâu	PRON	_	PronType=Int	10	obl	_	_
+10	tới	tới	VERB	_	_	3	ccomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	phải	phải	ADJ	_	_	10	conj	_	_
+13	không	không	ADV	_	Polarity=Neg	12	advmod	_	_
+14	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2911743
+# text = Đức vua, các chòm sao đã nói về việc chúng ta ở đây .
+# text_eng = Majesty, an alignment of the stars has drawn us here .
+1	Đức	đức	NOUN	_	_	2	clf	_	_
+2	vua	vua	NOUN	_	Case=Voc|Polite=Elev	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	các	các	DET	_	Number=Plur	5	det	_	_
+5	chòm sao	chòm sao	NOUN	_	_	7	nsubj	_	_
+6	đã	đã	ADV	_	AdvType=Tim|Tense=Past	7	advmod	_	_
+7	nói	nói	VERB	_	_	0	root	_	_
+8	về	về	ADP	_	_	9	case	_	_
+9	việc	việc	NOUN	_	_	7	obl	_	_
+10	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nmod	_	_
+11	ở	ở	ADP	_	_	12	case	_	_
+12	đây	đây	PRON	_	Deixis=Prox|PronType=Dem	7	obl	_	_
+13	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-46463
+# text = Hắn trầm tĩnh, có uống rượu, nhưng không tới nỗi say quá .
+# text_eng = He's quiet, drinks, but not to drunkenness .
+# 'hắn' can be derogatory, archaic and/or chiefly used in central Vietnam
+1	Hắn	hắn	PRON	_	Gender=Masc|Number=Sing|Person=3|Polite=Infm|PronType=Prs	2	nsubj	_	_
+2	trầm tĩnh	trầm tĩnh	VERB	_	_	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	có	có	VERB	_	_	2	conj	_	_
+5	uống	uống	VERB	_	_	4	xcomp	_	_
+6	rượu	rượu	NOUN	_	_	5	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	nhưng	nhưng	CCONJ	_	_	11	cc	_	_
+9	không	không	ADV	_	Polarity=Neg	11	advmod	_	_
+10	tới	tới	ADP	_	_	11	case	_	_
+11	nỗi	nỗi	NOUN	_	_	2	conj	_	_
+12	say	say	ADJ	_	_	11	amod	_	_
+13	quá	quá	ADV	_	AdvType=Deg	12	advmod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-3491447
+# text = Hầu hết ở đây đều già hơn tôi, nhưng ... phải, họ là một lũ ba hoa ... không nói gì nhiều .
+# text_eng = Most here are older than me, but ... yes, they're a bunch of brats ... that don't say much .
+# translation slightly adjusted for better alignment
+1	Hầu hết	hầu hết	ADV	_	_	5	nsubj	_	_
+2	ở	ở	ADP	_	_	3	case	_	_
+3	đây	đây	PRON	_	Deixis=Prox|PronType=Dem	1	obl	_	_
+4	đều	đều	ADV	_	_	5	advmod	_	_
+5	già	già	ADJ	_	_	0	root	_	_
+6	hơn	hơn	ADP	_	_	7	case	_	_
+7	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	nhưng	nhưng	CCONJ	_	_	16	cc	_	_
+10	...	...	PUNCT	_	_	16	punct	_	_
+11	phải	phải	PART	_	Polarity=Pos	16	discourse	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+14	là	là	AUX	_	_	16	cop	_	_
+15	một	một	NUM	_	NumType=Card	16	nummod	_	_
+16	lũ	lũ	NOUN	_	_	5	conj	_	_
+17	ba hoa	ba hoa	VERB	_	_	16	acl	_	_
+18	...	...	PUNCT	_	_	16	punct	_	_
+19	không	không	ADV	_	Polarity=Neg	20	advmod	_	_
+20	nói	nói	VERB	_	_	16	parataxis	_	_
+21	gì	gì	PRON	_	PronType=Ind	20	obj	_	_
+22	nhiều	nhiều	ADV	_	AdvType=Deg	21	advmod	_	_
+23	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1079438
+# text = Không phải của ông, cũng không phải của chúng tôi, vậy hắn ở phe ai ?
+# text_eng = If he's not with you, and he's not with us, so on whose side is he ?
+# added comma after 'chúng tôi' in viet sentence
+# eng translation slightly modified for better alignment
+# 'hắn' can be derogatory, archaic and/or chiefly used in central Vietnam
+1	Không	không	ADV	_	Polarity=Neg	4	advmod	_	_
+2	phải	phải	AUX	_	VerbType=Aux	4	aux	_	_
+3	của	của	ADP	_	_	4	case	_	_
+4	ông	ông	PRON	_	Gender=Masc|Number=Sing|Person=2|Polite=Form|PronType=Prs	15	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	cũng	cũng	ADV	_	_	10	advmod	_	_
+7	không	không	ADV	_	Polarity=Neg	10	advmod	_	_
+8	phải	phải	AUX	_	VerbType=Aux	10	aux	_	_
+9	của	của	ADP	_	_	10	case	_	_
+10	chúng tôi	chúng tôi	PRON	_	Number=Plur|Person=1|PronType=Prs	4	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	vậy	vậy	PART	_	_	15	discourse	_	_
+13	hắn	hắn	PRON	_	Gender=Masc|Number=Sing|Person=3|Polite=Infm|PronType=Prs	15	nsubj	_	_
+14	ở	ở	ADP	_	_	15	case	_	_
+15	phe	phe	NOUN	_	_	0	root	_	_
+16	ai	ai	DET	_	PronType=Int	15	nmod:poss	_	_
+17	?	?	PUNCT	_	_	15	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2411759
+# text = Những quyết định này ta không hề đưa ra hấp tấp đâu .
+# text_eng = I have made none of these decisions lightly .
+# 'ta' is archaic / literary
+# 'hề' is like 'ever' but used chiefly in the negative, emphasizes negation 'không'
+1	Những	những	DET	_	_	2	det	_	_
+2	quyết định	quyết định	NOUN	_	_	7	obj	_	_
+3	này	này	DET	_	PronType=Dem	2	det	_	_
+4	ta	ta	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+5	không	không	ADV	_	Polarity=Neg	7	advmod	_	_
+6	hề	hề	PART	_	Polarity=Neg	7	advmod	_	_
+7	đưa ra	đưa ra	VERB	_	_	0	root	_	_
+8	hấp tấp	hấp tấp	ADJ	_	_	7	ccomp	_	_
+9	đâu	đâu	PART	_	_	7	discourse	_	_
+10	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-209417
+# text = Nó làm người ta thấy ảm đạm ở ngay chỗ người ta chết, anh thấy không ?
+# text_eng = It upset a lot of people to the point where they're fuckin' dead, you know ?
+1	Nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|Polite=Infm|PronType=Prs	2	nsubj	_	_
+2	làm	làm	VERB	_	_	0	root	_	_
+3	người ta	người ta	NOUN	_	_	2	obj	_	_
+4	thấy	thấy	VERB	_	_	2	xcomp	_	_
+5	ảm đạm	ảm đạm	ADJ	_	_	4	xcomp	_	_
+6	ở	ở	ADP	_	_	8	case	_	_
+7	ngay	ngay	ADV	_	_	8	advmod	_	_
+8	chỗ	chỗ	NOUN	_	_	4	obj	_	_
+9	người ta	người ta	NOUN	_	_	10	nsubj	_	_
+10	chết	chết	VERB	_	_	8	acl:relcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	anh	anh	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	thấy	thấy	VERB	_	_	2	parataxis	_	_
+14	không	không	ADV	_	Polarity=Neg	13	advmod	_	_
+15	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-360938
+# text = Có điều từ đó quỉ xanh biến mất và chẳng ai biết đó chỉ là quỷ kế của họ cả .
+# text_eng = Only since then the blue devil disappeared and no one knew it was just their trick .
+# 'quỷ' and 'quỉ' are the same word despite different spellings
+# eng translation changed for better alignment
+1	Có	có	VERB	_	_	5	nsubj	_	_
+2	điều	điều	NOUN	_	_	1	obj	_	_
+3	từ	từ	ADP	_	_	4	case	_	_
+4	đó	đó	PRON	_	Deixis=Remt|PronType=Dem	2	nmod	_	_
+5	quỉ	quỉ	NOUN	_	_	0	root	_	_
+6	xanh	xanh	ADJ	_	_	5	amod	_	_
+7	biến mất	biến mất	VERB	_	_	5	xcomp	_	_
+8	và	và	CCONJ	_	_	11	cc	_	_
+9	chẳng	chẳng	ADV	_	Polarity=Neg	10	advmod	_	_
+10	ai	ai	PRON	_	PronType=Ind	11	nsubj	_	_
+11	biết	biết	VERB	_	_	7	conj	_	_
+12	đó	đó	PRON	_	Deixis=Remt|PronType=Dem	15	det	_	_
+13	chỉ	chỉ	ADV	_	AdvType=Mod	15	advmod	_	_
+14	là	là	AUX	_	VerbType=Cop	15	cop	_	_
+15	quỷ kế	quỷ kế	NOUN	_	_	11	ccomp	_	_
+16	của	của	ADP	_	_	17	case	_	_
+17	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	15	nmod	_	_
+18	cả	cả	DET	_	_	17	det	_	_
+19	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1785471
+# text = Quân đội ông ấy đã được rèn dũa qua hàng trăm trận với quân Anh .
+# text_eng = His armies are hardened by a 100 years of battle with England .
+# 'dũa' is misspelling of 'giũa'
+# 'hàng' is arithmetic / an integer place; is used in front of figures to denote severalty
+1	Quân đội	quân đội	NOUN	_	_	5	nsubj:pass	_	_
+2	ông ấy	ông ấy	PRON	_	Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs	1	nmod:poss	_	_
+3	đã	đã	ADV	_	AdvType=Tim|Tense=Past	5	advmod	_	_
+4	được	được	AUX	_	VerbType=Aux|Voice=Pass	5	aux:pass	_	_
+5	rèn	rèn	VERB	_	_	0	root	_	_
+6	dũa	dũa	VERB	_	Typo=Yes	5	xcomp	_	CorrectForm=giũa
+7	qua	qua	ADP	_	_	8	case	_	_
+8	hàng	hàng	NOUN	_	_	5	obl	_	_
+9	trăm	trăm	NUM	_	_	8	nummod	_	_
+10	trận	trận	NOUN	_	_	8	nmod	_	_
+11	với	với	ADP	_	_	12	case	_	_
+12	quân	quân	NOUN	_	_	10	nmod	_	_
+13	Anh	Anh	ADJ	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-784358
+# text = Dù sao, thực ra, đó là một băng đảng những tay Na Uy lớn tuổi .
+# text_eng = In fact, though, it was a gang of elderly Norwegians .
+1	Dù sao	dù sao	ADV	_	_	8	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	thực ra	thực ra	ADV	_	_	8	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	đó	đó	PRON	_	Deixis=Remt|PronType=Dem	8	nsubj	_	_
+6	là	là	AUX	_	VerbType=Cop	8	cop	_	_
+7	một	một	NUM	_	NumType=Card	8	nummod	_	_
+8	băng	băng	NOUN	_	_	0	root	_	_
+9	đảng	đảng	NOUN	_	_	8	compound	_	_
+10	những	những	DET	_	_	11	det	_	_
+11	tay	tay	NOUN	_	_	8	compound	_	_
+12	Na Uy	Na Uy	PROPN	_	NameType=Nat	8	compound	_	_
+13	lớn tuổi	lớn tuổi	ADJ	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-828316
+# text = Ống truyền dịch Levothyroxin là một loại thuốc tác động lên tuyến giáp .
+# text_eng = Intravenous Levothyroxin is an artificial thyroid medication that should take care of it .
+# '1' was changed into 'một' for standardization reasons
+1	Ống	ống	NOUN	_	_	7	nsubj	_	_
+2	truyền dịch	truyền dịch	NOUN	_	_	1	compound	_	_
+3	Levothyroxin	Levothyroxin	PROPN	_	_	2	compound	_	_
+4	là	là	AUX	_	VerbType=Cop	7	cop	_	_
+5	một	một	NUM	_	NumType=Card	7	nummod	_	_
+6	loại	loại	NOUN	_	_	7	compound	_	_
+7	thuốc	thuốc	NOUN	_	_	0	root	_	_
+8	tác động	tác động	VERB	_	_	7	xcomp	_	_
+9	lên	lên	ADP	_	_	10	case	_	_
+10	tuyến giáp	tuyến giáp	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1435608
+# text = Cả hai bệnh nhân đều được đưa vào bởi bác sĩ Leed, cả hai đều không phải là khách quen thuộc của anh ta .
+# text_eng = Both were brought in by Dr. Leed, neither of his regulars .
+# Viet sentence originally consists of two sentences but merged into one
+# name 'Dr. Leeds' in English translation fixed
+1	Cả hai	cả hai	DET	_	PronType=Tot	2	det	_	_
+2	bệnh nhân	bệnh nhân	NOUN	N	_	5	nsubj	_	_
+3	đều	đều	ADV	_	_	5	advmod	_	_
+4	được	được	AUX	_	VerbType=Aux|Voice=Pass	5	aux:pass	_	_
+5	đưa	đưa	VERB	_	_	0	root	_	_
+6	vào	vào	ADP	_	_	5	compound:prt	_	_
+7	bởi	bởi	ADP	_	_	8	case	_	_
+8	bác sĩ	bác sĩ	NOUN	_	_	5	obl	_	_
+9	Leed	Leed	PROPN	_	NameType=Prs	8	compound	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	cả hai	cả hai	DET	_	PronType=Tot	16	nsubj	_	_
+12	đều	đều	ADV	_	_	16	advmod	_	_
+13	không	không	ADV	_	Polarity=Neg	16	advmod	_	_
+14	phải	phải	AUX	_	VerbType=Aux	16	amod	_	_
+15	là	là	AUX	_	_	16	cop	_	_
+16	khách	khách	NOUN	_	_	5	advcl	_	_
+17	quen thuộc	quen thuộc	ADJ	_	_	16	amod	_	_
+18	của	của	ADP	_	_	19	case	_	_
+19	anh ta	anh ta	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
+20	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-307527
+# text = Và cũng nó đã giúp chúng ta nuôi sống mấy đứa cháu chắt .
+# text_eng = And also it has helped us to feed our grandchildren .
+# eng translation modified
+1	Và	và	CCONJ	_	_	5	cc	_	_
+2	cũng	cũng	ADV	_	_	5	advmod	_	_
+3	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|Polite=Infm|PronType=Prs	5	nsubj	_	_
+4	đã	đã	ADV	_	AdvType=Tim|Tense=Past	5	advmod	_	_
+5	giúp	giúp	VERB	_	_	0	root	_	_
+6	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+7	nuôi sống	nuôi sống	VERB	_	_	5	xcomp	_	_
+8	mấy	mấy	DET	_	_	10	det	_	_
+9	đứa	đứa	NOUN	_	_	8	clf	_	_
+10	cháu chắt	cháu chắt	NOUN	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1669480
+# text = Cô ấy sẽ phải chịu lời nguyền đó cho đến khi có được nụ hôn của tình yêu đích thực .
+# text_eng = She will have to bear that curse until she gets the kiss of true love .
+# eng translation modified for better alignment
+# 'được' in this case means 'to get/obtain', so there is no passivisation
+1	Cô ấy	cô ấy	PRON	_	Gender=Fem|Number=Sing|Person=3|Polite=Form|PronType=Prs	4	nsubj	_	_
+2	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	4	advmod	_	_
+3	phải	phải	AUX	_	VerbType=Mod	4	aux	_	_
+4	chịu	chịu	VERB	_	_	0	root	_	_
+5	lời nguyền	lời nguyền	NOUN	_	_	4	obj	_	_
+6	đó	đó	DET	_	Deixis=Remt|PronType=Dem	5	det	_	_
+7	cho đến khi	cho đến khi	ADP	_	_	8	mark	_	_
+8	có	có	VERB	_	_	4	advcl	_	_
+9	được	được	VERB	_	_	8	xcomp	_	_
+10	nụ	nụ	NOUN	_	_	11	clf	_	_
+11	hôn	hôn	NOUN	_	_	9	obj	_	_
+12	của	của	ADP	_	_	13	case	_	_
+13	tình yêu	tình yêu	NOUN	_	_	11	nmod	_	_
+14	đích thực	đích thực	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-3426120
+# text = Mối quan hệ của chúng ta sẽ được nhiều hơn là có qua có lại .
+# text_eng = Our relationship would be more quid pro quo .
+# 'có qua có lại' is more like a metaphorical translation for 'reciprocity'; not found in dictionaries
+# 'có qua có lại' basically means 'have something across / from one side to the other & then return'
+1	Mối	mối	NOUN	_	_	2	clf	_	_
+2	quan hệ	quan hệ	NOUN	_	_	7	nsubj	_	_
+3	của	của	ADP	_	_	4	case	_	_
+4	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
+5	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	7	advmod	_	_
+6	được	được	AUX	_	VerbType=Aux|Voice=Pass	7	aux:pass	_	_
+7	nhiều	nhiều	ADJ	_	_	0	root	_	_
+8	hơn	hơn	ADP	_	_	10	case	_	_
+9	là	là	AUX	_	VerbType=Cop	10	cop	_	_
+10	có	có	NOUN	_	_	7	obl	_	_
+11	qua	qua	NOUN	_	_	10	fixed	_	_
+12	có	có	NOUN	_	_	10	fixed	_	_
+13	lại	lại	NOUN	_	_	10	fixed	_	_
+14	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-3464331
+# text = Từ nay về sau, tình sư đồ giữa ta và hắn ân đoạn nghĩa tuyệt !
+# text_eng = From now on, our master-disciple bond is at an end !
+# original viet "sentence" consisted of two sentences by mistake; fixed
+# 'từ nay về sau' means 'henceforth' / 'from now on'; it is more like a fixed expression
+# 'hắn' can be derogatory, archaic and/or chiefly used in central Vietnam
+# 'ta' is archaic / literary
+# 'ân đoạn nghĩa tuyệt' literally means 'great meaning' but as a fixed expression, it means 'to cut off all ties' / 'end the relationship'; splitting not possible
+1	Từ	từ	ADP	_	_	2	case	_	_
+2	nay	nay	ADV	_	AdvType=Tim	12	advmod	_	_
+3	về	về	ADP	_	_	2	case	_	_
+4	sau	sau	ADV	_	_	12	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	_
+6	tình sư	tình sư	NOUN	_	_	12	nsubj	_	_
+7	đồ	đồ	NOUN	_	_	6	compound	_	_
+8	giữa	giữa	ADP	_	_	9	case	_	_
+9	ta	ta	PRON	_	Number=Sing|Person=1|PronType=Prs|Style=Arch	6	nmod	_	ModernForm=tôi
+10	và	và	CCONJ	_	_	11	cc	_	_
+11	hắn	hắn	PRON	_	Gender=Masc|Number=Sing|Person=3|Polite=Infm|PronType=Prs|Style=Arch,Vulg	9	conj	_	ModernForm=anh
+12	ân	ân	VERB	_	_	0	root	_	_
+13	đoạn	đoạn	VERB	_	_	12	fixed	_	_
+14	nghĩa	nghĩa	VERB	_	_	12	fixed	_	_
+15	tuyệt	tuyệt	VERB	_	_	12	fixed	_	_
+16	!	!	PUNCT	_	_	12	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1115907
+# text = Nhiệm vụ của ta là bắt những trùm sò, ko phải bọn trên phố .
+# text_eng = Our mission is to catch the bosses not the ones on the street .
+# punctuation in original sentence is missing; is added here subsequently for standardization reasons
+# comma in included after 'trùm sò' for better readability
+# eng translation changed for better alignment
+# 'ko' is abbreviation for 'không' & is capitalized in original sentence, therefore changed to lower-case
+# 'trùm sò' is typo; 'trùm sỏ' instead
+1	Nhiệm vụ	nhiệm vụ	NOUN	_	_	5	nsubj	_	_
+2	của	của	NOUN	_	_	3	case	_	_
+3	ta	ta	PRON	_	Number=Plur|Person=1|PronType=Prs|Style=Arch	1	nmod	_	_
+4	là	là	AUX	_	_	5	cop	_	_
+5	bắt	bắt	VERB	_	_	0	root	_	_
+6	những	những	DET	_	_	7	det	_	_
+7	trùm	trùm	NOUN	_	_	5	obj	_	_
+8	sò	sò	NOUN	_	Typo=Yes	7	compound	_	CorrectForm=sỏ|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	ko	ko	ADV	_	Abbr=Yes|Polarity=Neg	12	advmod	_	_
+11	phải	phải	ADJ	_	_	12	amod	_	_
+12	bọn	bọn	NOUN	_	_	7	conj	_	_
+13	trên	trên	ADP	_	_	14	case	_	_
+14	phố	phố	NOUN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1151540
+# text = Đây không phải là vòng múa Hula, nó là đồ móc quần áo .
+# text_eng = This is not a Hula-Hoop, it's a towel rack .
+1	Đây	đây	PRON	_	Deixis=Prox|PronType=Dem	5	nsubj	_	_
+2	không	không	ADV	_	Polarity=Neg	5	advmod	_	_
+3	phải	phải	AUX	_	VerbType=Aux	5	aux	_	_
+4	là	là	AUX	_	VerbType=Cop	5	cop	_	_
+5	vòng	vòng	NOUN	_	_	0	root	_	_
+6	múa	múa	VERB	_	_	5	compound	_	_
+7	Hula	Hula	NOUN	_	_	5	compound	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|Polite=Infm|PronType=Prs	11	nsubj	_	_
+10	là	là	AUX	_	VerbType=Cop	11	cop	_	_
+11	đồ	đồ	NOUN	_	_	5	parataxis	_	_
+12	móc	móc	NOUN	_	_	11	compound	_	_
+13	quần áo	quần áo	NOUN	_	_	12	compound	_	_
+14	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2958776
+# text = Hãy để cô ấy ra đi một cách an toàn và ngươi sẽ có ta .
+# text_eng = Let her go in safety and you can have me .
+# 'ta' is archaic / literary
+1	Hãy	hãy	ADV	_	AdvType=Mod|Mood=Imp	2	advmod	_	_
+2	để	để	VERB	_	_	0	root	_	_
+3	cô ấy	cô ấy	PRON	_	Gender=Fem|Number=Sing|Person=3|Polite=Form|PronType=Prs	4	nsubj	_	_
+4	ra	ra	VERB	_	_	2	xcomp	_	_
+5	đi	đi	VERB	_	_	4	xcomp	_	_
+6	một	một	NUM	_	NumType=Card	7	nummod	_	_
+7	cách	cách	NOUN	_	_	4	obl	_	_
+8	an toàn	an toàn	ADJ	_	_	7	amod	_	_
+9	và	và	CCONJ	_	_	12	cc	_	_
+10	ngươi	ngươi	NOUN	_	_	12	nsubj	_	_
+11	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	12	advmod	_	_
+12	có	có	VERB	_	_	4	conj	_	_
+13	ta	ta	PRON	_	Number=Sing|Person=1|PronType=Prs|Style=Arch	12	obj	_	ModernForm=tôi
+14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1826709
+# text = Hôm nay ông trời sắp xếp ta gặp nhau là muốn chỉ một kẻ có thể sống .
+# text_eng = Today god has put us together which means there is only one of us can survive .
+# punctuation missing in viet sentence & eng translation
+# '1' changed to 'một' in viet sentence
+# 'T oday' & 'Which' fixed in eng translation
+# 'nhau' functions like a reciprocal pronoun
+# 'ta' is archaic / literary
+1	Hôm nay	hôm nay	ADV	_	AdvType=Tim	4	obl:tmod	_	_
+2	ông trời	ông trời	PROPN	_	NameType=Oth	4	nsubj	_	_
+3	sắp	sắp	ADV	_	AdvType=Tim|Tense=Fut	4	advmod	_	_
+4	xếp	xếp	VERB	_	_	9	ccomp	_	_
+5	ta	ta	PRON	_	Number=Plur|Person=1|PronType=Prs|Style=Arch	4	obj	_	ModernForm=chúng tôi
+6	gặp	gặp	VERB	_	_	4	xcomp	_	_
+7	nhau	nhau	PRON	_	PronType=Rcp	6	obl	_	_
+8	là	là	AUX	_	VerbType=Cop	9	cop	_	_
+9	muốn	muốn	VERB	_	VerbType=Mod	0	root	_	_
+10	chỉ	chỉ	ADV	_	AdvType=Mod	12	advmod	_	_
+11	một	một	NUM	_	NumType=Card	12	nummod	_	_
+12	kẻ	kẻ	NOUN	_	_	14	nsubj	_	_
+13	có thể	có thể	AUX	_	Mood=Pot|VerbType=Mod	14	aux	_	_
+14	sống	sống	VERB	_	_	9	ccomp	_	_
+15	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1344287
+# text = Nói anh ta đừng nhúng mũi vào, không anh ta sẽ gặp rắc rối .
+# text_eng = Tell him not to stick his nose in, or he's gonna have a problem .
+# eng translation modified for better alignment
+1	Nói	nói	VERB	_	_	0	root	_	_
+2	anh ta	anh ta	PRON	_	_	1	iobj	_	_
+3	đừng	đừng	ADV	_	AdvType=Mod|Mood=Imp|Polarity=Neg	4	advmod	_	_
+4	nhúng	nhúng	VERB	_	_	1	xcomp	_	_
+5	mũi	mũi	NOUN	_	_	4	obj	_	_
+6	vào	vào	ADP	_	_	4	compound:prt	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	không	không	ADV	_	Polarity=Neg	9	advmod	_	_
+9	anh ta	anh ta	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	11	advmod	_	_
+11	gặp	gặp	VERB	_	_	4	conj	_	_
+12	rắc rối	rắc rối	NOUN	_	_	11	obl	_	_
+13	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-802251
+# text = Tôi nhớ là có lần mẹ tôi từng nói, ai có lòng kiên nhẫn đến cùng sẽ là người chiến thắng .
+# text_eng = I remember my mother once said, whoever has the patience to the end will be the winner .
+# translation changed for better alignment
+1	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	nhớ	nhớ	VERB	_	_	0	root	_	_
+3	là	là	AUX	_	VerbType=Cop	2	cop	_	_
+4	có	có	VERB	_	_	2	ccomp	_	_
+5	lần	lần	NOUN	_	_	4	obj	_	_
+6	mẹ	mẹ	NOUN	_	_	9	nsubj	_	_
+7	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	_
+8	từng	từng	ADV	_	_	9	advmod	_	_
+9	nói	nói	VERB	_	_	2	ccomp	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	ai	ai	PRON	_	PronType=Rel	12	nsubj	_	_
+12	có	có	VERB	_	_	20	csubj	_	_
+13	lòng	lòng	NOUN	_	_	12	obj	_	_
+14	kiên nhẫn	kiên nhẫn	ADJ	_	_	13	amod	_	_
+15	đến	đến	ADP	_	_	16	case	_	_
+16	cùng	cùng	NOUN	_	_	13	nmod	_	_
+17	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	19	advmod	_	_
+18	là	là	AUX	_	VerbType=Cop	19	cop	_	_
+19	người	người	NOUN	_	_	20	clf	_	_
+20	chiến thắng	chiến thắng	NOUN	_	_	9	ccomp	_	_
+21	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2776501
+# text = Giờ này hôm qua, bệnh cúm là điều mà ta ít lo nhất .
+# text_eng = This time yesterday, catching the flu was the least of our problems .
+1	Giờ	giờ	NOUN	_	_	7	obl:tmod	_	_
+2	này	này	DET	_	PronType=Dem	1	det	_	_
+3	hôm qua	hôm qua	NOUN	_	_	7	nmod:tmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	bệnh cúm	bệnh cúm	NOUN	_	_	7	nsubj	_	_
+6	là	là	AUX	_	VerbType=Cop	7	cop	_	_
+7	điều	điều	NOUN	_	_	0	root	_	_
+8	mà	mà	PRON	_	PronType=Rel	11	nsubj	_	_
+9	ta	ta	PRON	_	Number=Plur|Person=1|PronType=Prs	11	obj	_	_
+10	ít	ít	ADV	_	_	12	advmod	_	_
+11	lo	lo	VERB	_	_	7	acl:relcl	_	_
+12	nhất	nhất	ADV	_	AdvType=Deg	11	advmod	_	_
+13	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2511751
+# text = Four-six Special Ops Sergeant, các anh có thể 10-25 đến River Parkway và Fordham Road .
+# text_eng = Four-Six Special Ops Sergeant, you have a possible 10-25 at River Parkway and Fordham Road .
+# 'four-six' not capitalized in original sentence, modified for standardization
+1	Four-six	Four-six	PROPN	_	Foreign=Yes|NameType=Com	8	vocative	_	_
+2	Special	Special	PROPN	_	Foreign=Yes|NameType=Com	1	flat	_	_
+3	Ops	Ops	PROPN	_	Foreign=Yes|NameType=Com	2	flat	_	_
+4	Sergeant	Sergeant	PROPN	_	Foreign=Yes|NameType=Com	3	flat	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	các anh	các anh	PRON	_	Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_
+7	có thể	có thể	AUX	_	Mood=Pot|VerbType=Mod	8	aux	_	_
+8	10-25	10-25	NUM	_	_	0	root	_	_
+9	đến	đến	ADP	_	_	10	case	_	_
+10	River	River	PROPN	_	Foreign=Yes|NameType=Geo	8	nmod	_	_
+11	Parkway	Parkway	PROPN	_	Foreign=Yes|NameType=Geo	10	flat	_	_
+12	và	và	CCONJ	_	_	13	cc	_	_
+13	Fordham	Fordham	PROPN	_	Foreign=Yes|NameType=Geo	11	conj	_	_
+14	Road	Road	PROPN	_	Foreign=Yes|NameType=Geo	13	flat	_	_
+15	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2184361
+# text = Bố con nó chơi trò đấy từ khi nó cao bằng ngần này .
+# text_eng = His father has been playing that game since he was this tall .
+# eng translation changed suitably for better alignment
+1	Bố	bố	NOUN	_	_	4	nsubj	_	_
+2	con	con	NOUN	_	_	3	clf	_	_
+3	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
+4	chơi	chơi	VERB	_	_	0	root	_	_
+5	trò	trò	NOUN	_	_	4	obj	_	_
+6	đấy	đấy	PART	_	_	4	discourse	_	_
+7	từ khi	từ khi	SCONJ	_	_	9	mark	_	_
+8	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|Polite=Infm|PronType=Prs	9	nsubj	_	_
+9	cao	cao	ADJ	_	_	4	advcl	_	_
+10	bằng	bằng	ADP	_	_	11	case	_	_
+11	ngần	ngần	NOUN	_	_	9	nmod	_	_
+12	này	này	DET	_	PronType=Dem	11	det	_	_
+13	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2979971
+# text = Ngài là tiếng nói của hòa bình... một giọng nói mà lúc này cần phải được lắng nghe... hơn bao giờ hết những người như Abdul Nazari có vẻ rất khó để tìm thấy .
+# text_eng = He is the voice of peace... a voice that needs to be heard now... more than ever people like Abdul Nazari seem so hard to find .
+# punctuation after 'hết' in original sentence removed
+# eng translation slightly modified for better alignment
+1	Ngài	ngài	PRON	_	Number=Sing|Polite=Form|PronType=Prs	3	nsubj	_	_
+2	là	là	AUX	_	_	3	cop	_	_
+3	tiếng nói	tiếng nói	NOUN	_	_	0	root	_	_
+4	của	của	ADP	_	_	5	case	_	_
+5	hòa bình	hòa bình	NOUN	_	_	3	nmod	_	SpaceAfter=No
+6	...	...	PUNCT	_	_	3	punct	_	_
+7	một	một	NUM	_	NumType=Card	8	nummod	_	_
+8	giọng nói	giọng nói	NOUN	_	_	3	appos	_	_
+9	mà	mà	PRON	_	PronType=Rel	12	nsubj	_	_
+10	lúc	lúc	NOUN	_	_	12	obl	_	_
+11	này	này	DET	_	PronType=Dem	10	det	_	_
+12	cần	cần	VERB	_	VerbType=Mod	8	acl:relcl	_	_
+13	phải	phải	AUX	_	VerbType=Mod	15	aux	_	_
+14	được	được	AUX	_	VerbType=Aux|Voice=Pass	15	aux:pass	_	_
+15	lắng nghe	lắng nghe	VERB	_	_	12	xcomp	_	SpaceAfter=No
+16	...	...	PUNCT	_	_	3	punct	_	_
+17	hơn	hơn	ADP	_	_	18	case	_	_
+18	bao giờ	bao giờ	ADV	_	AdvType=Tim	19	obl	_	_
+19	hết	hết	ADJ	_	_	25	advmod	_	_
+20	những	những	DET	_	_	21	det	_	_
+21	người	người	NOUN	_	_	25	nsubj	_	_
+22	như	như	ADP	_	_	23	case	_	_
+23	Abdul	Abdul	PROPN	_	NameType=Giv	21	nmod	_	_
+24	Nazari	Nazari	PROPN	_	NameType=Sur	23	flat	_	_
+25	có vẻ	có vẻ	AUX	_	VerbType=Aux	3	parataxis	_	_
+26	rất	rất	ADV	_	AdvType=Deg	27	advmod	_	_
+27	khó	khó	ADJ	_	_	25	xcomp	_	_
+28	để	để	ADP	_	_	29	case	_	_
+29	tìm thấy	tìm thấy	VERB	_	_	27	advcl	_	_
+30	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1861121
+# text = Bộ cậu thực sự nghĩ là tôi không tìm hiểu về người trong nhà này à ?
+# text_eng = Do you really think I don't find out about the people in this house ?
+# eng translation slightly changed for better alignment
+# 'bộ' is sentence-initial question particle
+1	Bộ	bộ	PART	_	_	4	discourse	_	_
+2	cậu	cậu	PRON	_	Gender=Masc|Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nsubj	_	_
+3	thực sự	thực sự	ADV	_	_	4	advmod	_	_
+4	nghĩ	nghĩ	VERB	_	_	0	root	_	_
+5	là	là	AUX	_	_	8	cop	_	_
+6	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	không	không	ADV	_	Polarity=Neg	8	advmod	_	_
+8	tìm hiểu	tìm hiểu	VERB	_	_	4	ccomp	_	_
+9	về	về	ADP	_	_	10	case	_	_
+10	người	người	NOUN	_	_	8	obl	_	_
+11	trong	trong	ADP	_	_	12	case	_	_
+12	nhà	nhà	NOUN	_	_	10	nmod	_	_
+13	này	này	DET	_	PronType=Dem	12	det	_	_
+14	à	à	PART	_	_	8	discourse	_	_
+15	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1829810
+# text = Cha muốn những chi phiếu mới ghi "Dolarhyde và Con Trai" .
+# text_eng = I want new checks that say "Dolarhyde and Son" .
+# punctuation after 'Con Trai' but still in the quotation marks shifted to the end of quotation marks
+# eng translation changed to fit semantically better to the original sentence
+1	Cha	cha	PRON	_	_	2	nsubj	_	_
+2	muốn	muốn	VERB	_	VerbType=Mod	0	root	_	_
+3	những	những	DET	_	_	4	det	_	_
+4	chi phiếu	chi phiếu	NOUN	_	_	2	obj	_	_
+5	mới	mới	ADV	_	AdvType=Tim|Tense=Past	6	advmod	_	_
+6	ghi	ghi	VERB	_	_	4	acl:relcl	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	Dolarhyde	Dolarhyde	PROPN	_	NameType=Prs	6	obj	_	_
+9	và	và	CCONJ	_	_	10	cc	_	_
+10	Con	Con	PROPN	_	NameType=Prs	8	conj	_	_
+11	Trai	Trai	PROPN	_	NameType=Prs	10	flat	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	8	punct	_	_
+13	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2029498
+# text = Vụ triệt sản mà Sơ Jude bảo làm... ông làm ẩu đấy, Arthur .
+# text_eng = The sterilization that Sister Jude ordered... you botched it, Arthur .
+# eng translation slightly modified by including three dots after 'Sister Jude ordered' instead of two hyphens for better alignment
+1	Vụ	vụ	NOUN	_	_	2	clf	_	_
+2	triệt sản	triệt sản	NOUN	_	_	0	root	_	_
+3	mà	mà	PRON	_	PronType=Rel	6	obj	_	_
+4	Sơ	Sơ	PROPN	_	NameType=Prs	6	nsubj	_	_
+5	Jude	Jude	PROPN	_	NameType=Giv	4	flat	_	_
+6	bảo	bảo	VERB	_	_	2	acl:relcl	_	_
+7	làm	làm	VERB	_	_	6	xcomp	_	SpaceAfter=No
+8	...	...	PUNCT	_	_	2	punct	_	_
+9	ông	ông	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+10	làm	làm	VERB	_	_	2	parataxis	_	_
+11	ẩu	ẩu	ADV	_	_	10	advmod	_	_
+12	đấy	đấy	PART	_	_	10	discourse	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	10	punct	_	_
+14	Arthur	Arthur	PROPN	_	Case=Voc|NameType=Prs	10	vocative	_	_
+15	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2953781
+# text = Tôi tin rằng tôi đã làm tốt hơn những gì anh yêu cầu, nên, hai ta hoà rồi, nhé ?
+# text_eng = Well... I believe I did more than what you asked of me, so, that would make us square, yes ?
+# comma inserted after 'rồi'
+1	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tin	tin	VERB	_	_	0	root	_	_
+3	rằng	rằng	SCONJ	_	_	6	mark	_	_
+4	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	đã	đã	ADV	_	AdvType=Tim|Tense=Past	6	advmod	_	_
+6	làm	làm	VERB	_	_	2	ccomp	_	_
+7	tốt	tốt	ADV	_	_	6	advmod	_	_
+8	hơn	hơn	ADP	_	_	10	case	_	_
+9	những	những	DET	_	_	10	det	_	_
+10	gì	gì	PRON	_	PronType=Rel	7	obl	_	_
+11	anh	anh	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
+12	yêu cầu	yêu cầu	VERB	_	_	10	acl:relcl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	2	punct	_	_
+14	nên	nên	ADV	_	_	18	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	hai	hai	NUM	_	NumType=Card	17	nummod	_	_
+17	ta	ta	PRON	_	Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_
+18	hoà	hoà	ADJ	_	_	2	parataxis	_	_
+19	rồi	rồi	ADV	_	AdvType=Tim|Tense=Past	18	advmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	18	punct	_	_
+21	nhé	nhé	PART	_	_	18	discourse	_	_
+22	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1319352
+# text = Anh ấy muốn cho tôi biết việc mình đang làm về ...
+# text_eng = He tried to tell me about this thing he's working on this ...
+# comma after 'làm' / 'working on' removed
+1	Anh ấy	anh ấy	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	muốn	muốn	VERB	_	VerbType=Mod	0	root	_	_
+3	cho	cho	VERB	_	_	2	xcomp	_	_
+4	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+5	biết	biết	VERB	_	_	3	xcomp	_	_
+6	việc	việc	NOUN	_	_	9	obl	_	_
+7	mình	mình	PRON	_	PronType=Prs|Reflex=Yes	9	nsubj	_	_
+8	đang	đang	ADV	_	AdvType=Tim|Tense=Pres	9	advmod	_	_
+9	làm	làm	VERB	_	_	5	ccomp	_	_
+10	về	về	ADP	_	_	6	case	_	_
+11	...	...	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-1803995
+# text = Cậu thấy sao nếu tôi và cậu tối nay đi dự bữa tiệc mà tôi vừa hóng được ?
+# text_eng = How would you feel if you and I went to the party I was looking forward to tonight ?
+# English translation changed to be more suitable
+1	Cậu	cậu	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	thấy	thấy	VERB	_	_	0	root	_	_
+3	sao	sao	ADV	_	AdvType=Man	2	advmod	_	_
+4	nếu	nếu	SCONJ	_	_	10	mark	_	_
+5	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+6	và	và	CCONJ	_	_	7	cc	_	_
+7	cậu	cậu	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	conj	_	_
+8	tối	tối	NOUN	_	_	10	obl:tmod	_	_
+9	nay	nay	DET	_	PronType=Dem	8	det	_	_
+10	đi	đi	VERB	_	_	2	advcl	_	_
+11	dự	dự	VERB	_	_	10	xcomp	_	_
+12	bữa	bữa	NOUN	_	_	13	clf	_	_
+13	tiệc	tiệc	NOUN	_	_	11	obj	_	_
+14	mà	mà	PRON	_	PronType=Rel	17	obj	_	_
+15	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+16	vừa	vừa	ADV	_	AdvType=Tim|Tense=Past	17	advmod	_	_
+17	hóng	hóng	VERB	_	_	13	acl:relcl	_	_
+18	được	được	ADV	_	AdvType=Mod	17	advmod	_	_
+19	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-3435213
+# text = Và tôi đưa hai sát thủ lên chiếc máy bay không thể dò tìm của cô .
+# text_eng = And I put two killers on your untraceable plane .
+1	Và	và	CCONJ	_	_	3	cc	_	_
+2	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	đưa	đưa	VERB	_	_	0	root	_	_
+4	hai	hai	NUM	_	NumType=Card	5	nummod	_	_
+5	sát thủ	sát thủ	NOUN	_	_	3	obj	_	_
+6	lên	lên	ADP	_	_	8	case	_	_
+7	chiếc	chiếc	NOUN	_	_	8	clf	_	_
+8	máy bay	máy bay	NOUN	_	_	3	obl	_	_
+9	không thể	không thể	AUX	_	Mood=Pot|Polarity=Neg|VerbType=Mod	8	acl:relcl	_	_
+10	dò	dò	VERB	_	_	9	xcomp	_	_
+11	tìm	tìm	VERB	_	_	10	xcomp	_	_
+12	của	của	ADP	_	_	13	case	_	_
+13	cô	cô	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=Prs	8	nmod:poss	_	_
+14	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = OpenSubtitles-2655386
+# text = Cậu phục vụ đất nước khi mới 19 tuổi vì gì chứ ?
+# text_eng = Why did you serve your country at the age of 19 ?
+# English translation changed to be more suitable
+# sentence 'Tiền?' / 'Money?' removed after main sentence
+1	Cậu	cậu	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	phục vụ	phục vụ	VERB	_	_	0	root	_	_
+3	đất nước	đất nước	NOUN	_	_	2	obj	_	_
+4	khi	khi	ADP	_	_	7	case	_	_
+5	mới	mới	ADJ	_	_	7	amod	_	_
+6	19	19	NUM	_	NumType=Card	7	nummod	_	_
+7	tuổi	tuổi	NOUN	_	_	2	obl	_	_
+8	vì	vì	ADP	_	_	9	case	_	_
+9	gì	gì	PRON	_	PronType=Int	7	nmod	_	_
+10	chứ	chứ	PART	_	_	9	discourse	_	_
+11	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = QED-260849
+# text = Một trong số đó đã có kết quả tích cực và đã được xuất bản, nhưng sáu trong số đó có kết quả tiêu cực và chúng chưa được công bố .
+# text_eng = One of them was positive and that was published, but six of them were negative and they were left unpublished .
+# '6' in viet sentence changed to 'sáu'
+1	Một	một	NUM	_	NumType=Card	3	nummod	_	_
+2	trong	trong	ADP	_	_	3	case	_	_
+3	số	số	NOUN	_	_	6	nsubj	_	_
+4	đó	đó	DET	_	Deixis=Remt|PronType=Dem	3	det	_	_
+5	đã	đã	ADV	_	AdvType=Tim|Tense=Past	6	advmod	_	_
+6	có	có	VERB	_	_	0	root	_	_
+7	kết quả	kết quả	NOUN	_	_	6	obj	_	_
+8	tích cực	tích cực	ADJ	_	_	7	amod	_	_
+9	và	và	CCONJ	_	_	12	cc	_	_
+10	đã	đã	ADV	_	AdvType=Tim|Tense=Past	12	advmod	_	_
+11	được	được	AUX	_	VerbType=Aux|Voice=Pass	12	aux:pass	_	_
+12	xuất bản	xuất bản	VERB	_	_	6	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	nhưng	nhưng	SCONJ	_	_	19	cc	_	_
+15	sáu	sáu	NUM	_	NumType=Card	17	nummod	_	_
+16	trong	trong	ADP	_	_	17	case	_	_
+17	số	số	NOUN	_	_	19	nsubj	_	_
+18	đó	đó	DET	_	Deixis=Remt|PronType=Dem	17	det	_	_
+19	có	có	VERB	_	_	6	conj	_	_
+20	kết quả	kết quả	NOUN	_	_	19	obj	_	_
+21	tiêu cực	tiêu cực	ADJ	_	_	20	amod	_	_
+22	và	và	CCONJ	_	_	26	cc	_	_
+23	chúng	chúng	PRON	_	Number=Plur|Person=3|PronType=Prs	26	nsubj:pass	_	_
+24	chưa	chưa	ADV	_	Polarity=Neg	26	advmod	_	_
+25	được	được	AUX	_	VerbType=Aux|Voice=Pass	26	aux:pass	_	_
+26	công bố	công bố	VERB	_	_	19	conj	_	_
+27	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+
+# sent_id = QED-285560
+# text = Tư duy hình ảnh cho tôi sự hiểu biết hoàn toàn mới về trí óc loài vật .
+# text_eng = Visual thinking gave me a whole new understanding of the animal mind .
+# eng translation slightly modified for better alignment
+1	Tư duy	tư duy	NOUN	_	_	3	nsubj	_	_
+2	hình ảnh	hình ảnh	NOUN	_	_	1	nmod	_	_
+3	cho	cho	VERB	_	_	0	root	_	_
+4	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+5	sự	sự	NOUN	_	_	6	clf	_	_
+6	hiểu biết	hiểu biết	NOUN	_	_	3	obj	_	_
+7	hoàn toàn	hoàn toàn	ADJ	_	_	6	amod	_	_
+8	mới	mới	ADJ	_	_	6	amod	_	_
+9	về	về	ADP	_	_	10	case	_	_
+10	trí óc	trí óc	NOUN	_	_	6	nmod	_	_
+11	loài vật	loài vật	NOUN	_	_	10	compound	_	_
+12	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = QED-160349
+# text = Dù sao, tôi sẽ nhìn thấy bạn trong video tiếp theo .
+# text_eng = Anyway, I'll see you in the next video .
+1	Dù sao	dù sao	INTJ	_	_	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	5	advmod	_	_
+5	nhìn thấy	nhìn thấy	VERB	_	_	0	root	_	_
+6	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+7	trong	trong	ADP	_	_	8	case	_	_
+8	video	video	NOUN	_	_	5	obl	_	_
+9	tiếp theo	tiếp theo	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = QED-152747
+# text = Với những người có thể phân biệt được khi bỏ nhãn họ chọn màu " Đáng Yêu" nhưng khi có nhãn họ chọn " Giày Ba Lê" .
+# text_eng = Of the women that could tell them apart, when the labels were off, they picked "Adorable," and when the labels were on, they picked "Ballet Slippers" .
+# punctuation in eng sentence being in the quotation marks changed to sentence-final
+# eng sentence very slightly changed
+1	Với	với	ADP	_	_	3	case	_	_
+2	những	những	DET	_	_	3	det	_	_
+3	người	người	NOUN	_	_	11	obl	_	_
+4	có thể	có thể	AUX	_	Mood=Pot|VerbType=Mod	5	aux	_	_
+5	phân biệt	phân biệt	VERB	_	_	3	acl:relcl	_	_
+6	được	được	VERB	_	VerbType=Mod	5	xcomp	_	_
+7	khi	khi	ADV	_	_	8	advmod	_	_
+8	bỏ	bỏ	VERB	_	_	5	advcl	_	_
+9	nhãn	nhãn	NOUN	_	_	8	obj	_	_
+10	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	chọn	chọn	VERB	_	_	0	root	_	_
+12	màu	màu	NOUN	_	_	11	obj	_	_
+13	"	"	PUNCT	_	_	14	punct	_	_
+14	Đáng	Đáng	PROPN	_	NameType=Pro	12	appos	_	_
+15	Yêu	Yêu	PROPN	_	NameType=Pro	14	flat	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	14	punct	_	_
+17	nhưng	nhưng	CCONJ	_	_	22	cc	_	_
+18	khi	khi	ADV	_	_	19	advmod	_	_
+19	có	có	VERB	_	_	22	advcl	_	_
+20	nhãn	nhãn	NOUN	_	_	19	nsubj	_	_
+21	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
+22	chọn	chọn	VERB	_	_	11	conj	_	_
+23	"	"	PUNCT	_	_	24	punct	_	_
+24	Giày	Giày	PROPN	_	NameType=Pro	22	obj	_	_
+25	Ba	Ba	PROPN	_	NameType=Pro	24	flat	_	_
+26	Lê	Lê	PROPN	_	NameType=Pro	25	flat	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	24	punct	_	_
+28	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+
+# sent_id = QED-158395
+# text = Anh bước vào cuộc đời em như một luồng ánh sánh tím ...
+# text_eng = You came into my life like a violet light ...
+# 'ánh sánh' is typo, it should be 'ánh sáng' instead
+# 'soft' in 'soft violet light' in eng sentence removed for better alignment
+1	Anh	anh	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	bước	bước	VERB	_	_	0	root	_	_
+3	vào	vào	ADP	_	_	4	case	_	_
+4	cuộc	cuộc	NOUN	_	_	5	clf	_	_
+5	đời	đời	NOUN	_	_	2	obl	_	_
+6	em	em	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	_
+7	như	như	ADP	_	_	9	case	_	_
+8	một	một	NUM	_	NumType=Card	9	nummod	_	_
+9	luồng	luồng	NOUN	_	_	2	obl	_	_
+10	ánh sánh	ánh sánh	NOUN	_	Typo=Yes	9	compound	_	CorrectForm=ánh sáng
+11	tím	tím	ADJ	_	_	9	amod	_	_
+12	...	...	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = QED-8185
+# text = Nhưng trù khi bạn được hỏi, thường thi họ không đòi hỏi một cách giải như sách	.
+# text_eng = But unless you're asked to, usually they don't require a book-like solution .
+# missing punctuation added in viet sentence
+# 'trù khi' in viet sentence is typo, 'trừ khi' instead
+# eng translation slightly modified for better alignment
+# not sure if 'thi' ('poetry'/'take an examination'/'to compete') is a typo, it could be probably 'thì' ('well'/'then') bc this makes more sense in this context
+1	Nhưng	nhưng	CCONJ	_	_	11	cc	_	_
+2	trù khi	trù khi	SCONJ	_	Typo=Yes	5	mark	_	CorrectForm=trừ khi
+3	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	được	được	AUX	_	VerbType=Aux|Voice=Pass	5	aux:pass	_	_
+5	hỏi	hỏi	VERB	_	_	11	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	thường	thường	ADV	_	_	11	advmod	_	_
+8	thi	thi	PART	_	Typo=Yes	11	discourse	_	CorrectForm=thì
+9	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+10	không	không	ADV	_	Polarity=Neg	11	advmod	_	_
+11	đòi hỏi	đòi hỏi	VERB	_	_	0	root	_	_
+12	một	một	NUM	_	NumType=Card	13	nummod	_	_
+13	cách giải	cách giải	NOUN	_	_	11	obj	_	_
+14	như	như	ADP	_	_	15	case	_	_
+15	sách	sách	NOUN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+
+# sent_id = QED-142946
+# text = Về cơ bản nó tồn tại ở tất cả các thành phố trên khắp thế giới điều này có chút xíu ngạc nhiên khi các bạn nghĩ về nó .
+# text_eng = It exists in basically all of the cities all around the world, which is a little bit surprising when you think about it .
+# 'điều này' kinda behaves like a relative pronoun
+1	Về cơ bản	về cơ bản	ADV	_	_	3	advmod	_	_
+2	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	tồn tại	tồn tại	VERB	_	_	0	root	_	_
+4	ở	ở	ADP	_	_	7	case	_	_
+5	tất cả	tất cả	DET	_	PronType=Tot	7	det	_	_
+6	các	các	DET	_	Number=Plur	7	det	_	_
+7	thành phố	thành phố	NOUN	_	_	3	obl	_	_
+8	trên	trên	ADP	_	_	7	case	_	_
+9	khắp	khắp	ADP	_	_	10	case	_	_
+10	thế giới	thế giới	NOUN	_	_	7	nmod	_	_
+11	điều	điều	NOUN	_	_	13	nsubj	_	_
+12	này	này	DET	_	PronType=Dem	11	det	_	_
+13	có	có	VERB	_	_	7	acl:relcl	_	_
+14	chút xíu	chút xíu	ADV	_	_	15	advmod	_	_
+15	ngạc nhiên	ngạc nhiên	ADJ	_	_	13	xcomp	_	_
+16	khi	khi	ADV	_	_	18	advmod	_	_
+17	các bạn	các bạn	PRON	_	Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_
+18	nghĩ	nghĩ	VERB	_	_	13	advcl	_	_
+19	về	về	ADP	_	_	20	case	_	_
+20	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obl	_	_
+21	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = QED-276408
+# text = Tuy Google dịch khá hay một vài ngôn ngữ, nó dịch tiếng Trung vô cùng tệ .
+# text_eng = While Google translates pretty well in some languages, it translates Chinese terribly .
+# eng sentence slightly changed
+1	Tuy	tuy	SCONJ	_	_	3	mark	_	_
+2	Google	Google	PROPN	_	NameType=Com	3	nsubj	_	_
+3	dịch	dịch	VERB	_	_	10	advcl	_	_
+4	khá	khá	ADV	_	AdvType=Deg	5	advmod	_	_
+5	hay	hay	ADV	_	_	3	advmod	_	_
+6	một vài	một vài	DET	_	PronType=Ind	7	det	_	_
+7	ngôn ngữ	ngôn ngữ	NOUN	_	_	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	dịch	dịch	VERB	_	_	0	root	_	_
+11	tiếng	tiếng	NOUN	_	_	10	obj	_	_
+12	Trung	Trung	PROPN	_	NameType=Nat	11	compound	_	_
+13	vô cùng	vô cùng	ADV	_	AdvType=Deg	14	advmod	_	_
+14	tệ	tệ	ADV	_	_	10	advmod	_	_
+15	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+
+# sent_id = QED-321909
+# text = Nhưng với một cây súng cũ, thì ngay cả tay súng kì cựu nhất trong lực lượng quân đội cũng chưa chắc đã hạ gục được mục tiêu .
+# text_eng = But with an old gun, not even the best marksman in the armed forces could have hit the mark .
+1	Nhưng	nhưng	CCONJ	_	_	18	cc	_	_
+2	với	với	ADP	_	_	5	case	_	_
+3	một	một	NUM	_	NumType=Card	5	nummod	_	_
+4	cây	cây	NOUN	_	_	3	clf	_	_
+5	súng	súng	NOUN	_	_	18	nmod	_	_
+6	cũ	cũ	ADJ	_	_	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	18	punct	_	_
+8	thì	thì	PART	_	_	10	discourse	_	_
+9	ngay cả	ngay cả	ADV	_	_	10	advmod	_	_
+10	tay súng	tay súng	NOUN	_	_	18	nsubj	_	_
+11	kì cựu	kì cựu	ADJ	_	_	10	amod	_	_
+12	nhất	nhất	ADV	_	AdvType=Deg	11	advmod	_	_
+13	trong	trong	ADP	_	_	14	case	_	_
+14	lực lượng	lực lượng	NOUN	_	_	10	nmod	_	_
+15	quân đội	quân đội	NOUN	_	_	14	compound	_	_
+16	cũng	cũng	ADV	_	_	18	advmod	_	_
+17	chưa	chưa	ADV	_	Polarity=Neg	18	advmod	_	_
+18	chắc	chắc	ADJ	_	_	0	root	_	_
+19	đã	đã	ADV	_	AdvType=Tim|Tense=Past	20	advmod	_	_
+20	hạ gục	hạ gục	VERB	_	_	18	xcomp	_	_
+21	được	được	AUX	_	VerbType=Mod	20	aux	_	_
+22	mục tiêu	mục tiêu	NOUN	_	_	20	obj	_	_
+23	.	.	PUNCT	_	_	18	punct	_	SpaceAfter=No
+
+# sent_id = QED-129163
+# text = Tôi thích nghĩ về việc tôi làm là bắt sóng xác xuất .
+# text_eng = I like to think of what I do as a probability wave .
+# 'xác xuất' is typo; should be 'xác suất' instead
+1	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	thích	thích	VERB	_	VerbType=Mod	0	root	_	_
+3	nghĩ	nghĩ	VERB	_	_	2	xcomp	_	_
+4	về	về	ADP	_	_	5	case	_	_
+5	việc	việc	NOUN	_	_	3	obl	_	_
+6	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	làm	làm	VERB	_	_	5	acl:relcl	_	_
+8	là	là	AUX	_	VerbType=Cop	9	cop	_	_
+9	bắt	bắt	VERB	_	_	7	xcomp	_	_
+10	sóng	sóng	NOUN	_	_	9	obj	_	_
+11	xác xuất	xác xuất	NOUN	_	Typo=Yes	10	compound	_	CorrectForm=xác suất
+12	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = QED-109943
+# text = Mà, đây là -- đây là một trích dẫn đại diện từ một người mẹ bị bủa vây :
+# text_eng = Now, here is -- here is a representative quote from a besieged mother :
+# missing double-hyphens in viet sentence missed & adjusted to eng sentence
+# not sure if 'bị bủa vây' is a typo bc it is indeed listed in the 'Từ Điển Việt-Anh - Vietnamese-English dictionary', maybe it is obsolete?
+# on Wiktionary, the viet translation for 'being (passive) besieged' is 'bị bao vây'
+1	Mà	mà	PART	_	_	9	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	9	punct	_	_
+3	đây	đây	PRON	_	Deixis=Prox|PronType=Dem	6	reparandum	_	_
+4	là	là	AUX	_	VerbType=Cop	7	reparandum	_	_
+5	--	--	PUNCT	_	_	6	punct	_	_
+6	đây	đây	PRON	_	Deixis=Prox|PronType=Dem	9	nsubj	_	_
+7	là	là	AUX	_	VerbType=Cop	9	cop	_	_
+8	một	một	NUM	_	NumType=Card	9	nummod	_	_
+9	trích dẫn	trích dẫn	NOUN	_	_	0	root	_	_
+10	đại diện	đại diện	ADJ	_	_	9	amod	_	_
+11	từ	từ	ADP	_	_	14	case	_	_
+12	một	một	NUM	_	NumType=Card	14	nummod	_	_
+13	người	người	NOUN	_	_	12	clf	_	_
+14	mẹ	mẹ	NOUN	_	_	16	nsubj:pass	_	_
+15	bị	bị	AUX	_	VerbType=Mod|Voice=Pass	16	aux:pass	_	_
+16	bủa vây	bủa vây	VERB	_	Typo=Yes	9	nmod	_	CorrectForm=bao vây
+17	:	:	PUNCT	_	_	9	punct	_	SpaceAfter=No
+
+# sent_id = QED-148604
+# text = Nhưng điều thực sự truyền cảm hứng cho tôi là điều sắp trở thành hiện thực khi ôtô của chúng ta có thể bắt đầu giao tiếp với nhau .
+# text_eng = But what really inspires me is what's going to be possible when our cars can begin talking to each other .
+# 'nhau' (each other) is like a reciprocal pronoun
+1	Nhưng	nhưng	CCONJ	_	_	9	cc	_	_
+2	điều	điều	NOUN	_	_	4	nsubj	_	_
+3	thực sự	thực sự	ADV	_	_	4	advmod	_	T_
+4	truyền	truyền	VERB	_	_	9	acl:relcl	_	_
+5	cảm hứng	cảm hứng	NOUN	_	_	4	obj	_	_
+6	cho	cho	ADP	_	_	7	case	_	_
+7	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+8	là	là	AUX	_	VerbType=Cop	9	cop	_	_
+9	điều	điều	NOUN	_	_	0	root	_	_
+10	sắp	sắp	ADV	_	AdvType=Tim|Tense=Fut	11	advmod	_	_
+11	trở	trở	VERB	_	_	9	acl:relcl	_	_
+12	thành	thành	ADP	_	_	13	case	_	_
+13	hiện thực	hiện thực	NOUN	_	_	11	obl	_	_
+14	khi	khi	ADV	_	_	19	advmod	_	_
+15	ôtô	ôtô	NOUN	_	_	19	nsubj	_	_
+16	của	của	ADP	_	_	17	case	_	_
+17	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	15	nmod	_	_
+18	có thể	có thể	AUX	_	Mood=Pot|VerbType=Mod	19	aux	_	_
+19	bắt đầu	bắt đầu	VERB	_	_	11	advcl	_	_
+20	giao tiếp	giao tiếp	VERB	_	_	19	xcomp	_	_
+21	với	với	ADP	_	_	22	case	_	_
+22	nhau	nhau	PRON	_	PronType=Rcp	20	obl	_	_
+23	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+
+# sent_id = QED-82694
+# text = Khi mỗi người thích các thứ khác nhau, chẳng hạn như một thành viên thích táo, chuối và dừa, thành viên khác lại thích chuối, dừa và táo... với những ý kiến khác nhau đó, vấn đề trở nên có chút phức tạp để định ra thứ tự ưu tiên của gia đình .
+# text_eng = When each person likes different things, for example one member likes apples, bananas and coconuts, another member likes bananas, coconuts and apples... with those different opinions, the matter becomes a bit complicated to determine family priorities .
+# eng translation modified for better alignment
+1	Khi	khi	ADV	_	_	4	advmod	_	_
+2	mỗi	mỗi	DET	_	PronType=Tot	3	det	_	_
+3	người	người	NOUN	_	_	4	nsubj	_	_
+4	thích	thích	VERB	_	VerbType=Mod	37	advcl	_	_
+5	các	các	DET	_	Number=Plur	6	det	_	_
+6	thứ	thứ	NOUN	_	_	4	obj	_	_
+7	khác nhau	khác nhau	ADJ	_	_	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	chẳng hạn	chẳng hạn	ADV	_	_	13	obl	_	_
+10	như	như	ADP	_	_	9	case	_	_
+11	một	một	NUM	_	NumType=Card	12	nummod	_	_
+12	thành viên	thành viên	NOUN	_	_	13	nsubj	_	_
+13	thích	thích	VERB	_	VerbType=Mod	4	parataxis	_	_
+14	táo	táo	NOUN	_	_	13	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	chuối	chuối	NOUN	_	_	14	conj	_	_
+17	và	và	CCONJ	_	_	18	cc	_	_
+18	dừa	dừa	NOUN	_	_	14	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	13	punct	_	_
+20	thành viên	thành viên	NOUN	_	_	23	nsubj	_	_
+21	khác	khác	ADJ	_	_	20	amod	_	_
+22	lại	lại	ADV	_	_	23	advmod	_	_
+23	thích	thích	VERB	_	VerbType=Mod	13	parataxis	_	_
+24	chuối	chuối	NOUN	_	_	23	obj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	dừa	dừa	NOUN	_	_	24	conj	_	_
+27	và	và	CCONJ	_	_	28	cc	_	_
+28	táo	táo	NOUN	_	_	24	conj	_	SpaceAfter=No
+29	...	...	PUNCT	_	_	23	punct	_	_
+30	với	với	ADP	_	_	32	case	_	_
+31	những	những	DET	_	_	32	det	_	_
+32	ý kiến	ý kiến	NOUN	_	_	37	obl	_	_
+33	khác nhau	khác nhau	ADJ	_	_	32	amod	_	_
+34	đó	đó	DET	_	Deixis=Remt|PronType=Dem	32	det	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	37	punct	_	_
+36	vấn đề	vấn đề	NOUN	_	_	37	nsubj	_	_
+37	trở nên	trở nên	VERB	_	_	0	root	_	_
+38	có	có	VERB	_	_	37	xcomp	_	_
+39	chút	chút	NOUN	_	_	40	obl	_	_
+40	phức tạp	phức tạp	ADJ	_	_	38	xcomp	_	_
+41	để	để	ADP	_	_	42	mark	_	_
+42	định	định	VERB	_	_	40	advcl	_	_
+43	ra	ra	VERB	_	_	42	compound:prt	_	_
+44	thứ	thứ	NOUN	_	_	42	obj	_	_
+45	tự	tự	PRON	_	PronType=Prs|Reflex=Yes	44	iobj	_	_
+46	ưu tiên	ưu tiên	VERB	_	_	44	acl:relcl	_	_
+47	của	của	ADP	_	_	48	case	_	_
+48	gia đình	gia đình	NOUN	_	_	44	nmod	_	_
+49	.	.	PUNCT	_	_	37	punct	_	SpaceAfter=No
+
+# sent_id = QED-278903
+# text = Rồi ta cứ thế phóng to đến khi thấy trung tâm nghệ thuật này .
+# text_eng = Then we keep zooming until we see this art center .
+# eng translation modified for better alignment
+# 'rồi' is an interjection
+1	Rồi	rồi	INTJ	_	_	3	discourse	_	_
+2	ta	ta	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	cứ	cứ	VERB	_	_	0	root	_	_
+4	thế	thế	NOUN	_	_	5	obj	_	_
+5	phóng to	phóng to	VERB	_	_	3	xcomp	_	_
+6	đến khi	đến khi	SCONJ	_	_	7	mark	_	_
+7	thấy	thấy	VERB	_	_	5	advcl	_	_
+8	trung tâm	trung tâm	NOUN	_	_	7	obj	_	_
+9	nghệ thuật	nghệ thuật	NOUN	_	_	8	compound	_	_
+10	này	này	DET	_	PronType=Dem	8	det	_	_
+11	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = QED-84898
+# text = Vậy hãy phóng ra một chút, chúng ta thấy lần nữa nước Mỹ -- bạn thấy Florida ở ngay góc phải di chuyển qua phái bờ tây .
+# text_eng = So zooming back out real quick, we see, again, the U.S. -- you get Florida down in the right-hand corner .
+# missing punctuation in viet sentence added
+# missing double-hyphens in viet sentence missed & adjusted to eng sentence
+# 'Tây' changed to lower-case
+1	Vậy	vậy	PART	_	_	3	discourse	_	_
+2	hãy	hãy	ADV	_	AdvType=Mod|Mood=Imp	3	advmod	_	_
+3	phóng	phóng	VERB	_	_	0	root	_	_
+4	ra	ra	ADP	_	_	3	compound:prt	_	_
+5	một	một	NUM	_	NumType=Card	6	nummod	_	_
+6	chút	chút	NOUN	_	_	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+9	thấy	thấy	VERB	_	_	3	conj	_	_
+10	lần	lần	NOUN	_	_	9	obl	_	_
+11	nữa	nữa	ADV	_	_	10	advmod	_	_
+12	nước Mỹ	nước Mỹ	PROPN	_	NameType=Geo	10	obj	_	_
+13	--	--	PUNCT	_	_	9	punct	_	_
+14	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+15	thấy	thấy	VERB	_	_	9	parataxis	_	_
+16	Florida	Florida	PROPN	_	NameType=Geo	15	obj	_	_
+17	ở	ở	ADP	_	_	19	case	_	_
+18	ngay	ngay	ADV	_	_	19	advmod	_	_
+19	góc	góc	NOUN	_	_	15	obl	_	_
+20	phải	phải	ADJ	_	_	19	amod	_	_
+21	di chuyển	di chuyển	VERB	_	_	15	advcl	_	_
+22	qua	qua	ADP	_	_	24	case	_	_
+23	phái	phái	NOUN	_	_	24	compound	_	_
+24	bờ	bờ	NOUN	_	_	21	obl	_	_
+25	tây	tây	ADJ	_	_	24	amod	_	_
+26	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = QED-204754
+# text = Một mối quan hệ cộng sinh, liệu những loài biết bay như chim hay ong, chúng có nhận lại được thứ gì không, và thứ mà chúng nhận lại là mật hoa .
+# text_eng = There's a symbiotic relationship there, whether it's flies or birds or bees, they're getting something in return, and that something in return is generally nectar .
+# 'thứ gì' as fixed expression does not exist but only in separation & means 'something'
+# 'không' acts like an interjection as emphasis for affirmed statement
+1	Một	một	NUM	_	NumType=Card	3	nummod	_	_
+2	mối	mối	NOUN	_	_	1	clf	_	_
+3	quan hệ	quan hệ	NOUN	_	_	17	nsubj:outer	_	_
+4	cộng sinh	cộng sinh	ADJ	_	_	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	17	punct	_	_
+6	liệu	liệu	SCONJ	_	_	8	mark	_	_
+7	những	những	DET	_	_	8	det	_	_
+8	loài	loài	NOUN	_	_	17	advcl	_	_
+9	biết	biết	VERB	_	VerbType=Mod	8	xcomp	_	_
+10	bay	bay	VERB	_	_	9	xcomp	_	_
+11	như	như	ADP	_	_	12	case	_	_
+12	chim	chim	NOUN	_	_	8	nmod	_	_
+13	hay	hay	CCONJ	_	_	14	cc	_	_
+14	ong	ong	NOUN	_	_	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	chúng	chúng	PRON	_	Number=Plur|Person=2|PronType=Prs	17	nsubj	_	_
+17	có	có	VERB	_	_	0	root	_	_
+18	nhận	nhận	VERB	_	_	17	xcomp	_	_
+19	lại	lại	ADV	_	_	18	advmod	_	_
+20	được	được	AUX	_	VerbType=Aux|Voice=Pass	18	aux:pass	_	_
+21	thứ	thứ	NOUN	_	_	22	clf	_	_
+22	gì	gì	PRON	_	PronType=Ind	18	obj	_	_
+23	không	không	INTJ	_	Polarity=Neg	18	discourse	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	32	punct	_	_
+25	và	và	CCONJ	_	_	32	cc	_	_
+26	thứ	thứ	NOUN	_	_	32	nsubj	_	_
+27	mà	mà	PRON	_	PronType=Rel	29	obj	_	_
+28	chúng	chúng	PRON	_	Number=Plur|Person=2|PronType=Prs	29	nsubj	_	_
+29	nhận	nhận	VERB	_	_	26	acl:relcl	_	_
+30	lại	lại	ADV	_	_	29	advmod	_	_
+31	là	là	AUX	_	VerbType=Cop	32	cop	_	_
+32	mật hoa	mật hoa	NOUN	_	_	18	conj	_	_
+33	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = QED-39111
+# text = Bởi vì ở khoảnh khắc đó, không còn dấu hiệu cho cái tên của Tony, đó chỉ còn hai chúng tôi đứng đó .
+# text_eng = Because in that moment, there's no mark by Tony's name; it's just the two of us standing there .
+1	Bởi vì	bởi vì	SCONJ	_	_	7	mark	_	_
+2	ở	ở	ADP	_	_	3	case	_	_
+3	khoảnh khắc	khoảnh khắc	NOUN	_	_	7	obl	_	_
+4	đó	đó	DET	_	Deixis=Remt|PronType=Dem	3	det	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	không	không	ADV	_	Polarity=Neg	7	advmod	_	_
+7	còn	còn	VERB	_	_	0	root	_	_
+8	dấu hiệu	dấu hiệu	NOUN	_	_	7	nsubj	_	_
+9	cho	cho	ADP	_	_	11	case	_	_
+10	cái	cái	NOUN	_	_	11	clf	_	_
+11	tên	tên	NOUN	_	_	8	nmod	_	_
+12	của	của	ADP	_	_	13	case	_	_
+13	Tony	Tony	PROPN	_	NameType=Prs	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	7	punct	_	_
+15	đó	đó	PRON	_	Deixis=Remt|PronType=Dem	17	nsubj	_	_
+16	chỉ	chỉ	ADV	_	AdvType=Mod	17	advmod	_	_
+17	còn	còn	VERB	_	_	7	parataxis	_	_
+18	hai	hai	NUM	_	NumType=Card	19	nummod	_	_
+19	chúng tôi	chúng tôi	PRON	_	Number=Plur|Person=1|PronType=Prs	17	obj	_	_
+20	đứng	đứng	VERB	_	_	17	ccomp	_	_
+21	đó	đó	PRON	_	Deixis=Remt|PronType=Dem	20	obl	_	_
+22	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+
+# sent_id = QED-278254
+# text = Và học tập hạn giám sát đề cập đến một thực tế rằng chúng tôi đã cung cấp các thuật toán một tập dữ liệu bằng các dấu ngoặc kép câu trả lời đúng chức .
+# text_eng = And the term supervised learning refers to the fact that we gave the algorithm a data set in which the "right answers" were given .
+1	Và	và	CCONJ	_	_	5	cc	_	_
+2	học	học	NOUN	_	_	5	nsubj	_	_
+3	tập hạn	tập hạn	NOUN	_	_	2	compound	_	_
+4	giám sát	giám sát	VERB	_	_	2	compound	_	_
+5	đề cập	đề cập	VERB	_	_	0	root	_	_
+6	đến	đến	ADP	_	_	8	case	_	_
+7	một	một	NUM	_	NumType=Card	8	nummod	_	_
+8	thực tế	thực tế	NOUN	_	_	5	obl	_	_
+9	rằng	rằng	SCONJ	_	_	12	mark	_	_
+10	chúng tôi	chúng tôi	PRON	_	Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+11	đã	đã	ADV	_	AdvType=Tim|Tense=Past	12	advmod	_	_
+12	cung cấp	cung cấp	VERB	_	_	8	acl	_	_
+13	các	các	DET	_	Number=Plur	14	det	_	_
+14	thuật toán	thuật toán	NOUN	_	_	12	iobj	_	_
+15	một	một	NUM	_	NumType=Card	16	nummod	_	_
+16	tập	tập	NOUN	_	_	12	obj	_	_
+17	dữ liệu	dữ liệu	NOUN	_	_	16	compound	_	_
+18	bằng	bằng	ADP	_	_	20	case	_	_
+19	các	các	DET	_	Number=Plur	20	det	_	_
+20	dấu ngoặc kép	dấu ngoặc kép	NOUN	_	_	12	obl	_	_
+21	câu	câu	NOUN	_	_	22	compound	_	_
+22	trả lời	trả lời	NOUN	_	_	20	nmod	_	_
+23	đúng	đúng	ADJ	_	_	24	amod	_	_
+24	chức	chức	NOUN	_	_	22	nmod	_	_
+25	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = QED-13279
+# text = Khu vực thương mại tự do đang lớn lên của Châu Á, hầu như là hoàn toàn tự do, giờ đã có lượng trao đổi hàng hóa lớn hơn cả ở phía bên kia Thái Bình Dương .
+# text_eng = The Asian free trade zone, almost free trade zone, that's emerging now has a greater trade volume than trade across the Pacific .
+1	Khu vực	khu vực	NOUN	_	_	16	nsubj	_	_
+2	thương mại	thương mại	NOUN	_	_	1	compound	_	_
+3	tự do	tự do	ADJ	_	_	1	amod	_	_
+4	đang	đang	ADV	_	AdvType=Tim|Tense=Pres	5	advmod	_	_
+5	lớn lên	lớn lên	VERB	_	_	1	amod	_	_
+6	của	của	ADP	_	_	7	case	_	_
+7	Châu Á	Châu Á	PROPN	_	NameType=Nat	1	nmod:poss	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	_	_
+9	hầu như	hầu như	ADV	_	_	12	advmod	_	_
+10	là	là	AUX	_	VerbType=Cop	12	cop	_	_
+11	hoàn toàn	hoàn toàn	ADV	_	_	12	advmod	_	_
+12	tự do	tự do	ADJ	_	_	1	acl:relcl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	giờ	giờ	ADV	_	_	16	advmod	_	_
+15	đã	đã	ADV	_	AdvType=Tim|Tense=Past	16	advmod	_	_
+16	có	có	VERB	_	_	0	root	_	_
+17	lượng	lượng	NOUN	_	_	16	obj	_	_
+18	trao đổi	trao đổi	NOUN	_	_	17	compound	_	_
+19	hàng hóa	hàng hóa	NOUN	_	_	18	compound	_	_
+20	lớn	lớn	ADJ	_	_	17	amod	_	_
+21	hơn	hơn	ADP	_	_	25	case	_	_
+22	cả	cả	DET	_	_	25	det	_	_
+23	ở	ở	ADP	_	_	25	case	_	_
+24	phía	phía	NOUN	_	_	25	compound	_	_
+25	bên	bên	NOUN	_	_	16	obl	_	_
+26	kia	kia	DET	_	PronType=Dem	25	det	_	_
+27	Thái Bình Dương	Thái Bình Dương	PROPN	_	NameType=Geo	25	nmod	_	_
+28	.	.	PUNCT	_	_	16	punct	_	SpaceAfter=No
+
+# sent_id = QED-191494
+# text = Thực ra, dù không biết gì về nó, ông đã phát minh ra một thứ mà chúng ta có thể thấy ở bất cứ hộp bút học sinh nào: được gọi là "bút xóa" .
+# text_eng = And actually, without knowing it, my father had invented something we can find in every schoolchild's pencil case: the so-called "correction pen" .
+# '(Vỗ tay)' / '(Applause)' removed in viet sentence & eng translation
+# punctuation inside "correction pen." , shifted to sentence-end
+1	Thực ra	thực ra	ADV	_	_	12	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	12	punct	_	_
+3	dù	dù	SCONJ	_	_	5	mark	_	_
+4	không	không	ADV	_	Polarity=Neg	5	advmod	_	_
+5	biết	biết	VERB	_	_	12	advcl	_	_
+6	gì	gì	PRON	_	PronType=Ind	5	obj	_	_
+7	về	về	ADP	_	_	8	case	_	_
+8	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	ông	ông	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	đã	đã	ADV	_	AdvType=Tim|Tense=Past	12	advmod	_	_
+12	phát minh	phát minh	VERB	_	_	0	root	_	_
+13	ra	ra	PART	_	_	12	compound:prt	_	_
+14	một	một	NUM	_	NumType=Card	15	nummod	_	_
+15	thứ	thứ	NOUN	_	_	12	obj	_	_
+16	mà	mà	PRON	_	PronType=Rel	19	obj	_	_
+17	chúng ta	chúng ta	PRON	_	Number=Plur|Person=2|PronType=Prs	19	nsubj	_	_
+18	có thể	có thể	AUX	_	Mood=Pot|VerbType=Mod	19	aux	_	_
+19	thấy	thấy	VERB	_	_	15	acl:relcl	_	_
+20	ở	ở	ADP	_	_	22	case	_	_
+21	bất cứ	bất cứ	DET	_	_	22	det	_	_
+22	hộp	hộp	NOUN	_	_	19	obl	_	_
+23	bút	bút	NOUN	_	_	22	compound	_	_
+24	học sinh	học sinh	NOUN	_	_	22	compound	_	_
+25	nào	nào	PRON	_	PronType=Ind	22	det	_	SpaceAfter=No
+26	:	:	PUNCT	_	_	22	punct	_	_
+27	được	được	AUX	_	VerbType=Mod	28	aux	_	_
+28	gọi	gọi	VERB	_	_	12	advcl	_	_
+29	là	là	AUX	_	VerbType=Cop	28	cop	_	_
+30	"	"	PUNCT	_	_	31	punct	_	SpaceAfter=No
+31	bút	bút	NOUN	_	_	28	obj	_	_
+32	xóa	xóa	VERB	_	_	31	compound	_	SpaceAfter=No
+33	"	"	PUNCT	_	_	12	punct	_	_
+34	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+
+# sent_id = QED-231396
+# text = Điều mà tôi biết nói với các bạn, các giác quan của chúng ta thật hạn chế -- ta không thể nghe mọi thứ, ta không thể thấy mọi thứ .
+# text_eng = What I'd like to tell you, our senses are so limited -- we cannot hear everything, we cannot see everything .
+# eng translation very slightly changed
+# double hyphens in viet sentence used instead of comma to adjust to eng translation
+1	Điều	điều	NOUN	_	_	14	nsubj:pass	_	_
+2	mà	mà	PRON	_	PronType=Rel	4	obj	_	_
+3	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	biết	biết	VERB	_	_	1	acl:relcl	_	_
+5	nói	nói	VERB	_	_	4	xcomp	_	_
+6	với	với	ADP	_	_	7	case	_	_
+7	các bạn	các bạn	PRON	_	Number=Plur|Person=2|PronType=Prs	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	các	các	DET	_	Number=Plur	10	det	_	_
+10	giác quan	giác quan	NOUN	_	_	7	conj	_	_
+11	của	của	ADP	_	_	12	case	_	_
+12	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	10	nmod:poss	_	_
+13	thật	thật	ADV	_	_	14	advmod	_	_
+14	hạn chế	hạn chế	VERB	_	_	0	root	_	_
+15	--	--	PUNCT	_	_	18	punct	_	_
+16	ta	ta	PRON	_	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
+17	không thể	không thể	AUX	_	Mood=Pot|Polarity=Neg|VerbType=Mod	18	aux	_	_
+18	nghe	nghe	VERB	_	_	14	parataxis	_	_
+19	mọi	mọi	DET	_	_	20	det	_	_
+20	thứ	thứ	NOUN	_	_	18	obj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	ta	ta	PRON	_	Number=Plur|Person=1|PronType=Prs	24	nsubj	_	_
+23	không thể	không thể	AUX	_	Mood=Pot|Polarity=Neg|VerbType=Mod	24	aux	_	_
+24	thấy	thấy	VERB	_	_	18	parataxis	_	_
+25	mọi	mọi	DET	_	_	26	det	_	_
+26	thứ	thứ	NOUN	_	_	24	obj	_	_
+27	.	.	PUNCT	_	_	14	punct	_	SpaceAfter=No
+
+# sent_id = QED-71330
+# text = Nếu bạn thấy điều gì là "không thể", hãy biến nó thành "có thể" .
+# text_eng = If you see something that's not possible, make it possible .
+1	Nếu	nếu	SCONJ	_	_	3	mark	_	_
+2	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	thấy	thấy	VERB	_	_	12	advcl	_	_
+4	điều	điều	NOUN	_	_	3	obj	_	_
+5	gì	gì	PRON	_	PronType=Rel	4	det	_	_
+6	là	là	AUX	_	VerbType=Cop	8	cop	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	không thể	không thể	ADJ	_	Polarity=Neg	3	obl	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	hãy	hãy	ADV	_	AdvType=Mod	12	advmod	_	_
+12	biến	biến	VERB	_	_	0	root	_	_
+13	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	thành	thành	ADP	_	_	16	case	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	có thể	có thể	AUX	_	Mood=Pot|VerbType=Mod	12	xcomp	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+
+# sent_id = QED-238904
+# text = Mọi thứ đều hỗn độn và chẳng có ai muốn phải một mình .
+# text_eng = Everything is messy and no one wants to be alone .
+# missing punctuation in viet sentence fixed
+# capitalized in viet sentence 'Và' changed to lower case
+# eng translation adjusted for better alignment with viet sentence
+1	Mọi	mọi	DET	_	_	2	det	_	_
+2	thứ	thứ	NOUN	_	_	4	nsubj	_	_
+3	đều	đều	ADV	_	_	4	advmod	_	_
+4	hỗn độn	hỗn độn	ADJ	_	_	0	root	_	_
+5	và	và	CCONJ	_	_	7	cc	_	_
+6	chẳng	chẳng	ADV	_	Polarity=Neg	7	advmod	_	_
+7	có	có	VERB	_	_	4	conj	_	_
+8	ai	ai	PRON	_	PronType=Ind	7	nsubj	_	_
+9	muốn	muốn	VERB	_	VerbType=Mod	8	acl	_	_
+10	phải	phải	AUX	_	VerbType=Aux	9	aux	_	_
+11	một	một	NUM	_	NumType=Card	12	nummod	_	_
+12	mình	mình	PRON	_	PronType=Prs|Reflex=Yes	9	xcomp	_	_
+13	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = QED-64550
+# text = Tôi đã lấy ván trược tuyết của mình và lấy một tấm bảng và ghép một cái chân buồm vào chỗ đó, và một vài dây để xỏ chân, vài miếng kim loại, và tôi đã ở đây, chạy rất nhanh trên hồ băng .
+# text_eng = I took my skis and I took a board and I put a mast foot in there, and some foot straps, and some metal fins, and here I was, going really fast on frozen lakes .
+# typo in viet sentence: 'ván trược tuyết', 'ván trượt tuyết' instead
+# 'tấm' is classifier used for large flat things, in this case 'bảng' (board)
+1	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	đã	đã	ADV	_	AdvType=Tim|Tense=Past	3	advmod	_	_
+3	lấy	lấy	VERB	_	_	0	root	_	_
+4	ván trược tuyết	ván trược tuyết	NOUN	_	Typo=Yes	3	obj	_	CorrectForm=ván trượt tuyết
+5	của	của	ADP	_	_	6	case	_	_
+6	mình	mình	PRON	_	PronType=Prs|Reflex=Yes	4	nmod:poss	_	_
+7	và	và	CCONJ	_	_	8	cc	_	_
+8	lấy	lấy	VERB	_	_	3	conj	_	_
+9	một	một	NUM	_	NumType=Card	11	nummod	_	_
+10	tấm	tấm	NOUN	_	_	9	clf	_	_
+11	bảng	bảng	NOUN	_	_	8	obj	_	_
+12	và	và	CCONJ	_	_	13	cc	_	_
+13	ghép	ghép	VERB	_	_	3	conj	_	_
+14	một	một	NUM	_	NumType=Card	16	nummod	_	_
+15	cái	cái	NOUN	_	_	14	clf	_	_
+16	chân	chân	NOUN	_	_	13	obj	_	_
+17	buồm	buồm	NOUN	_	_	16	compound	_	_
+18	vào	vào	ADP	_	_	19	case	_	_
+19	chỗ	chỗ	NOUN	_	_	13	obl	_	_
+20	đó	đó	DET	_	Deixis=Remt|PronType=Dem	19	det	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	và	và	CCONJ	_	_	24	cc	_	_
+23	một vài	một vài	DET	_	PronType=Ind	24	det	_	_
+24	dây	dây	NOUN	_	_	13	conj	_	_
+25	để	để	ADP	_	_	24	case	_	_
+26	xỏ	xỏ	VERB	_	_	24	xcomp	_	_
+27	chân	chân	NOUN	_	_	26	obj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	_
+29	vài	vài	DET	_	PronType=Ind	31	det	_	_
+30	miếng	miếng	NOUN	_	_	29	clf	_	_
+31	kim loại	kim loại	NOUN	_	_	24	conj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	37	punct	_	_
+33	và	và	CCONJ	_	_	37	cc	_	_
+34	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	37	nsubj	_	_
+35	đã	đã	ADV	_	AdvType=Tim|Tense=Past	37	advmod	_	_
+36	ở	ở	ADP	_	_	37	case	_	_
+37	đây	đây	PRON	_	Deixis=Remt|PronType=Dem	3	conj	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	chạy	chạy	VERB	_	_	37	conj	_	_
+40	rất	rất	ADV	_	AdvType=Deg	41	advmod	_	_
+41	nhanh	nhanh	ADJ	_	_	39	xcomp	_	_
+42	trên	trên	ADP	_	_	43	case	_	_
+43	hồ	hồ	NOUN	_	_	39	obl	_	_
+44	băng	băng	NOUN	_	_	43	compound	_	_
+45	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = QED-294154
+# text = Nhưng điều mà bạn có thể làm trong PhET là chọn một nhóm tham số, thay đổi một tham số, quan sát điều xảy ra, rồi thay đổi tham số khác xong trở lại thay đổi tham số đầu tiên .
+# text_eng = But what you can do in PhET is set a bunch of parameters and vary one of them, see what happens, then make one change in a different parameter and vary the first one again .
+# speaker's name of viet sentence removed for better alignment to eng translation
+1	Nhưng	nhưng	CCONJ	_	_	10	cc	_	_
+2	điều	điều	NOUN	_	_	10	nsubj	_	_
+3	mà	mà	PRON	_	PronType=Rel	6	obj	_	_
+4	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+5	có thể	có thể	AUX	_	Mood=Pot|VerbType=Mod	6	aux	_	_
+6	làm	làm	VERB	_	_	2	acl:relcl	_	_
+7	trong	trong	ADP	_	_	8	case	_	_
+8	PhET	PhET	PROPN	_	NameType=Oth	6	obl	_	_
+9	là	là	AUX	_	VerbType=Cop	10	cop	_	_
+10	chọn	chọn	VERB	_	_	0	root	_	_
+11	một	một	NUM	_	NumType=Card	12	nummod	_	_
+12	nhóm	nhóm	NOUN	_	_	10	obj	_	_
+13	tham số	tham số	NOUN	_	_	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	thay đổi	thay đổi	VERB	_	_	10	conj	_	_
+16	một	một	NUM	_	NumType=Card	17	nummod	_	_
+17	tham số	tham số	NOUN	_	_	15	obj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	quan sát	quan sát	VERB	_	_	10	conj	_	_
+20	điều	điều	NOUN	_	_	21	nsubj	_	_
+21	xảy ra	xảy ra	VERB	_	_	19	ccomp	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	rồi	rồi	ADV	_	_	24	advmod	_	_
+24	thay đổi	thay đổi	VERB	_	_	10	conj	_	_
+25	tham số	tham số	NOUN	_	_	24	obj	_	_
+26	khác	khác	ADJ	_	_	25	amod	_	_
+27	xong	xong	ADJ	_	_	28	advmod	_	_
+28	trở lại	trở lại	VERB	_	_	10	conj	_	_
+29	thay đổi	thay đổi	VERB	_	_	28	xcomp	_	_
+30	tham số	tham số	NOUN	_	_	29	obj	_	_
+31	đầu tiên	đầu tiên	ADJ	_	NumType=Ord	30	amod	_	_
+32	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+
+# sent_id = QED-33809
+# text = Nếu ai đó dỡ video của bạn xuống do nhầm lẫn hoặc do việc xác định sai tài liệu cần bị xóa, hiện có quy trình thông báo phản đối cho việc này .
+# text_eng = If someone takes down your video by mistake, or as the result of a misidentification of the material to be removed, there's a counter-notification process for that .
+1	Nếu	nếu	SCONJ	_	_	4	mark	_	_
+2	ai	ai	PRON	_	PronType=Ind	4	nsubj	_	_
+3	đó	đó	DET	_	Deixis=Remt|PronType=Dem	2	det	_	_
+4	dỡ	dỡ	VERB	_	_	21	advcl	_	_
+5	video	video	NOUN	_	_	4	obj	_	_
+6	của	của	ADP	_	_	7	case	_	_
+7	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	_
+8	xuống	xuống	VERB	_	_	4	compound:prt	_	_
+9	do	do	ADP	_	_	10	case	_	_
+10	nhầm lẫn	nhầm lẫn	VERB	_	_	4	obl	_	_
+11	hoặc	hoặc	CCONJ	_	_	13	cc	_	_
+12	do	do	ADP	_	_	13	case	_	_
+13	việc	việc	NOUN	_	_	14	compound	_	_
+14	xác định	xác định	VERB	_	_	4	conj	_	_
+15	sai	sai	ADJ	_	_	14	amod	_	_
+16	tài liệu	tài liệu	NOUN	_	_	14	obj	_	_
+17	cần	cần	VERB	_	VerbType=Mod	14	xcomp	_	_
+18	bị	bị	AUX	_	VerbType=Mod|Voice=Pass	19	aux:pass	_	_
+19	xóa	xóa	VERB	_	_	17	xcomp	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	hiện	hiện	VERB	_	_	0	root	_	_
+22	có	có	VERB	_	_	21	xcomp	_	_
+23	quy trình	quy trình	NOUN	_	_	22	obj	_	_
+24	thông báo	thông báo	VERB	_	_	23	acl	_	_
+25	phản đối	phản đối	VERB	_	_	23	acl	_	_
+26	cho	cho	ADP	_	_	27	case	_	_
+27	việc	việc	NOUN	_	_	25	obl	_	_
+28	này	này	DET	_	PronType=Dem	27	det	_	_
+29	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
+
+# sent_id = QED-313755
+# text = Chúng tôi mang chúng đến một căn phòng và thực hiện thí nghiệm với chúng .
+# text_eng = We call them into a room and do experiments with them .
+# eng translation very slightly changed
+1	Chúng tôi	chúng tôi	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	mang	mang	VERB	_	_	0	root	_	_
+3	chúng	chúng	PRON	_	Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+4	đến	đến	ADP	_	_	7	case	_	_
+5	một	một	NUM	_	NumType=Card	7	nummod	_	_
+6	căn	căn	NOUN	_	_	5	clf	_	_
+7	phòng	phòng	NOUN	_	_	2	obl	_	_
+8	và	và	CCONJ	_	_	9	cc	_	_
+9	thực hiện	thực hiện	VERB	_	_	2	conj	_	_
+10	thí nghiệm	thí nghiệm	NOUN	_	_	9	obj	_	_
+11	với	với	ADP	_	_	12	case	_	_
+12	chúng	chúng	PRON	_	Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = QED-74500
+# text = Nó có nghĩa là khi tôi có hai tiếng rưỡi để làm bài kiểm tra mà bất cứ ai ở đây chỉ tốn 50 phút tôi có lẽ sẽ đạt điểm F .
+# text_eng = It meant that when I was given two and a half hours to take a test that anyone here would take in 50 minutes, I might score an F .
+# '2' changed to 'hai' in viet sentence
+# 'bất cứ' (any) + ai (who) = 'bất cứ ai' (anyone)
+1	Nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	có	có	VERB	_	_	0	root	_	_
+3	nghĩa là	nghĩa là	AUX	_	VerbType=Aux	2	aux	_	_
+4	khi	khi	ADV	_	_	25	advmod	_	_
+5	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	có	có	VERB	_	_	25	advcl	_	_
+7	hai	hai	NUM	_	NumType=Card	8	nummod	_	_
+8	tiếng	tiếng	NOUN	_	_	6	obj	_	_
+9	rưỡi	rưỡi	NOUN	_	_	8	conj	_	_
+10	để	để	ADP	_	_	11	mark	_	_
+11	làm	làm	VERB	_	_	6	advcl	_	_
+12	bài kiểm tra	bài kiểm tra	NOUN	_	_	11	obj	_	_
+13	mà	mà	PRON	_	PronType=Rel	19	nsubj	_	_
+14	bất cứ	bất cứ	DET	_	_	15	compound	_	_
+15	ai	ai	PRON	_	PronType=Rel	19	obj	_	_
+16	ở	ở	ADP	_	_	17	case	_	_
+17	đây	đây	PRON	_	Deixis=Prox|PronType=Dem	15	obl	_	_
+18	chỉ	chỉ	ADV	_	AdvType=Mod	19	advmod	_	_
+19	tốn	tốn	VERB	_	_	12	acl:relcl	_	_
+20	50	50	NUM	_	NumType=Card	21	nummod	_	_
+21	phút	phút	NOUN	_	_	19	obl:tmod	_	_
+22	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
+23	có lẽ	có lẽ	ADV	_	_	25	advmod	_	_
+24	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	25	advmod	_	_
+25	đạt	đạt	VERB	_	_	2	ccomp	_	_
+26	điểm	điểm	NOUN	_	_	25	obj	_	_
+27	F	F	PROPN	_	NameType=Oth	26	compound	_	_
+28	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = QED-239071
+# text = Ngay bây giờ, đâu đó ngoài kia một nhà giáo đang giảng bài giảng có giá trị thay đổi nhận thức .
+# text_eng = Right now, somewhere out there, an educator is delivering a mind-altering lesson to their class .
+1	Ngay	ngay	ADV	_	_	2	advmod	_	_
+2	bây giờ	bây giờ	ADV	_	AdvType=Tim	10	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	đâu đó	đâu đó	ADV	_	_	10	advmod	_	_
+5	ngoài	ngoài	ADV	_	AdvType=Loc	6	case	_	_
+6	kia	kia	PRON	_	Deixis=Remt|PronType=Dem	4	obl	_	_
+7	một	một	NUM	_	NumType=Card	8	nummod	_	_
+8	nhà giáo	nhà giáo	NOUN	_	_	10	nsubj	_	_
+9	đang	đang	ADV	_	AdvType=Tim|Tense=Pres	10	advmod	_	_
+10	giảng	giảng	VERB	_	_	0	root	_	_
+11	bài giảng	bài giảng	NOUN	_	_	10	obj	_	_
+12	có	có	VERB	_	_	10	ccomp	_	_
+13	giá trị	giá trị	NOUN	_	_	12	obj	_	_
+14	thay đổi	thay đổi	VERB	_	_	13	acl	_	_
+15	nhận thức	nhận thức	NOUN	_	_	14	obj	_	_
+16	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+
+# sent_id = QED-12221
+# text = Cho đến sau khi báo động hỏa hoạn, tôi đã không phải là một nghi ngờ .
+# text_eng = Until after the alarm of fire, I had not a suspicion .
+# eng translation slightly changed for better alignment with viet sentence
+1	Cho đến	cho đến	ADP	_	_	4	case	_	_
+2	sau	sau	ADP	_	_	4	case	_	_
+3	khi	khi	ADP	_	_	4	case	_	_
+4	báo động	báo động	NOUN	_	_	13	obl	_	_
+5	hỏa hoạn	hỏa hoạn	NOUN	_	_	4	compound	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+8	đã	đã	ADV	_	AdvType=Tim|Tense=Past	13	advmod	_	_
+9	không	không	ADV	_	Polarity=Neg	13	advmod	_	_
+10	phải	phải	AUX	_	VerbType=Aux	13	aux	_	_
+11	là	là	AUX	_	VerbType=Cop	13	cop	_	_
+12	một	một	NUM	_	NumType=Card	13	nummod	_	_
+13	nghi ngờ	nghi ngờ	NOUN	_	_	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No
+
+# sent_id = QED-256590.2
+# text = Gerda, tôi thấy không khỏe ...
+# text_eng = Gerda, I don't feel well ...
+# viet sentence contained two sentences; first one removed for better alignment
+# eng translation modified with three dots instead of single punctuation like in viet sentence
+1	Gerda	Gerda	PROPN	_	NameType=Giv	4	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	thấy	thấy	VERB	_	_	0	root	_	_
+5	không	không	ADV	_	Polarity=Neg	6	advmod	_	_
+6	khỏe	khỏe	ADJ	_	_	4	xcomp	_	_
+7	...	...	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = QED-176986
+# text = Đâu là tiềm năng ảnh hưởng lên khả năng nhìn của bệnh nhân ?
+# text_eng = What's the potential impact on a patient's ability to see ?
+1	Đâu	đâu	PRON	_	PronType=Int	4	nsubj	_	_
+2	là	là	AUX	_	_	4	cop	_	_
+3	tiềm năng	tiềm năng	ADJ	_	_	4	amod	_	_
+4	ảnh hưởng	ảnh hưởng	NOUN	_	_	0	root	_	_
+5	lên	lên	ADP	_	_	6	case	_	_
+6	khả năng	khả năng	NOUN	_	_	4	nmod	_	_
+7	nhìn	nhìn	VERB	_	_	6	acl	_	_
+8	của	của	ADP	_	_	9	case	_	_
+9	bệnh nhân	bệnh nhân	NOUN	_	_	6	nmod:poss	_	_
+10	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = QED-178213
+# text = Tôi đã triệu tập mọi người ngay khi sự việc xảy ra!
+# text_eng = I called everybody the minute it happened !
+1	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	đã	đã	ADV	_	AdvType=Tim|Tense=Past	3	advmod	_	_
+3	triệu tập	triệu tập	VERB	_	_	0	root	_	_
+4	mọi	mọi	DET	_	_	5	det	_	_
+5	người	người	NOUN	_	_	3	obj	_	_
+6	ngay khi	ngay khi	SCONJ	_	_	8	mark	_	_
+7	sự việc	sự việc	NOUN	_	_	8	nsubj	_	_
+8	xảy ra	xảy ra	VERB	_	_	3	advcl	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = QED-246508
+# text = Hóa ra đây là sinh vật dài nhất dưới đáy đại dương .
+# text_eng = This turns out to be the longest creature in the oceans .
+# missing punctuation in viet sentence fixed
+1	Hóa ra	hóa ra	VERB	_	_	0	root	_	_
+2	đây	đây	PRON	_	Deixis=Prox|PronType=Dem	4	nsubj	_	_
+3	là	là	AUX	_	_	4	cop	_	_
+4	sinh vật	sinh vật	NOUN	_	_	1	ccomp	_	_
+5	dài	dài	ADJ	_	_	4	amod	_	_
+6	nhất	nhất	ADV	_	AdvType=Deg	5	advmod	_	_
+7	dưới	dưới	ADP	_	_	8	case	_	_
+8	đáy	đáy	NOUN	_	_	4	nmod	_	_
+9	đại dương	đại dương	NOUN	_	_	8	compound	_	_
+10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# sent_id = QED-25791
+# text = Đằng sau Gregor, âm thanh vào thời điểm này là không còn giống như tiếng nói của chỉ một người cha .
+# text_eng = Behind Gregor, the sound at this point was no longer like the voice of only a single father .
+# missing comma in both sentences after 'Gregor' fixed
+1	Đằng sau	đằng sau	ADP	_	_	2	case	_	_
+2	Gregor	Gregor	PROPN	_	NameType=Giv	11	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	âm thanh	âm thanh	NOUN	_	_	11	nsubj	_	_
+5	vào	vào	ADP	_	_	6	case	_	_
+6	thời điểm	thời điểm	NOUN	_	_	4	nmod	_	_
+7	này	này	DET	_	PronType=Dem	6	det	_	_
+8	là	là	AUX	_	_	11	cop	_	_
+9	không	không	ADV	_	Polarity=Neg	11	advmod	_	_
+10	còn	còn	ADV	_	_	11	advmod	_	_
+11	giống	giống	VERB	_	_	0	root	_	_
+12	như	như	ADP	_	_	13	case	_	_
+13	tiếng nói	tiếng nói	NOUN	_	_	11	obl	_	_
+14	của	của	ADP	_	_	18	case	_	_
+15	chỉ	chỉ	ADV	_	AdvType=Mod	18	advmod	_	_
+16	một	một	NUM	_	NumType=Card	18	nummod	_	_
+17	người	người	NOUN	_	_	16	clf	_	_
+18	cha	cha	NOUN	_	_	13	nmod	_	_
+19	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+
+# sent_id = QED-165366
+# text = Nhưng hãy để tôi cho bạn thấy một vài ví dụ về những cách mà những người đã cố gắng định nghĩa nó .
+# text_eng = But let me show you a couple of examples of the ways that people have tried to define it .
+1	Nhưng	nhưng	CCONJ	_	_	3	cc	_	_
+2	hãy	hãy	ADV	_	AdvType=Mod|Mood=Imp	3	advmod	_	_
+3	để	để	VERB	_	_	0	root	_	_
+4	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+5	cho	cho	ADP	_	_	6	case	_	_
+6	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+7	thấy	thấy	VERB	_	_	3	xcomp	_	_
+8	một vài	một vài	DET	_	PronType=Ind	9	det	_	_
+9	ví dụ	ví dụ	NOUN	_	_	7	obj	_	_
+10	về	về	ADP	_	_	12	case	_	_
+11	những	những	DET	_	_	12	det	_	_
+12	cách	cách	NOUN	_	_	9	nmod	_	_
+13	mà	mà	PRON	_	PronType=Rel	17	obj	_	_
+14	những	những	DET	_	_	15	det	_	_
+15	người	người	NOUN	_	_	17	nsubj	_	_
+16	đã	đã	ADV	_	AdvType=Tim|Tense=Past	17	advmod	_	_
+17	cố gắng	cố gắng	VERB	_	_	12	acl:relcl	_	_
+18	định nghĩa	định nghĩa	VERB	_	_	17	xcomp	_	_
+19	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+20	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = QED-68845
+# text = Thế là tôi quyết định sẽ đi xa hơn theo hướng này và tới những nơi không có một bảo tàng nào cả .
+# text_eng = So I decided to go further in this direction and go in places where there were zero museums .
+1	Thế là	thế là	ADV	_	_	3	advmod	_	_
+2	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	quyết định	quyết định	VERB	_	_	0	root	_	_
+4	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	5	advmod	_	_
+5	đi	đi	VERB	_	_	3	xcomp	_	_
+6	xa	xa	ADV	_	_	5	advmod	_	_
+7	hơn	hơn	ADV	_	_	6	advmod	_	_
+8	theo	theo	ADP	_	_	9	case	_	_
+9	hướng	hướng	NOUN	_	_	5	obl	_	_
+10	này	này	DET	_	Deixis=Prox|PronType=Dem	9	det	_	_
+11	và	và	CCONJ	_	_	12	cc	_	_
+12	tới	tới	VERB	_	_	5	conj	_	_
+13	những	những	DET	_	_	14	det	_	_
+14	nơi	nơi	NOUN	_	_	12	obj	_	_
+15	không	không	ADV	_	Polarity=Neg	16	advmod	_	_
+16	có	có	VERB	_	_	14	acl:relcl	_	_
+17	một	một	NUM	_	NumType=Card	18	nummod	_	_
+18	bảo tàng	bảo tàng	NOUN	_	_	16	nsubj	_	_
+19	nào	nào	PRON	_	PronType=Ind	18	det	_	_
+20	cả	cả	DET	_	_	18	det	_	_
+21	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = QED-238140
+# text = Đó là vì sao họ đã bắt đầu cung cấp những ống nhôm, những trại làm bằng nhôm .
+# text_eng = That is why they started providing aluminum pipes, aluminum barracks .
+1	Đó	đó	PRON	_	Deixis=Remt|PronType=Dem	3	nsubj:outer	_	_
+2	là	là	AUX	_	VerbType=Cop	3	cop	_	_
+3	vì sao	vì sao	ADV	_	AdvType=Cau	0	root	_	_
+4	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+5	đã	đã	ADV	_	AdvType=Tim|Tense=Past	6	advmod	_	_
+6	bắt đầu	bắt đầu	VERB	_	_	3	advcl	_	_
+7	cung cấp	cung cấp	VERB	_	_	6	xcomp	_	_
+8	những	những	DET	_	_	9	det	_	_
+9	ống	ống	NOUN	_	_	7	obj	_	_
+10	nhôm	nhôm	NOUN	_	_	9	compound	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	những	những	DET	_	_	13	det	_	_
+13	trại	trại	NOUN	_	_	9	appos	_	_
+14	làm	làm	VERB	_	_	13	acl	_	_
+15	bằng	bằng	ADP	_	_	16	case	_	_
+16	nhôm	nhôm	NOUN	_	_	14	obl	_	_
+17	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-217054
+# text = Tôi rất thích chủ đề lần này, - "The Future You" - bởi lẽ việc hướng đến tương lai cho ta cơ hội tranh luận ở hiện tại, cho ta nhìn tương lai qua lăng kính của từng người .
+# text_eng = I really like the topic this time, - "The Future You" - because looking to the future gives us the opportunity to debate in the present, allowing us to see the future through the lens of each person .
+# eng translation modified for better alignment
+# comma after 'bởi lẽ' in viet sentence removed
+# 'hướng' means 'direction' but can be also used as a verb like 'to face (toward)'
+# 'việc' means 'job' or 'matter'; can be used to nominalize a verb, in this case 'hướng' (comparable to English: 'looking' as noun consisting of verb 'to look' & suffix '-ing')
+1	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	rất	rất	ADV	_	AdvType=Deg	3	advmod	_	_
+3	thích	thích	VERB	_	VerbType=Mod	0	root	_	_
+4	chủ đề	chủ đề	NOUN	_	_	3	obj	_	_
+5	lần	lần	NOUN	_	_	3	obl:tmod	_	_
+6	này	này	DET	_	PronType=Dem	5	det	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	-	-	PUNCT	_	_	3	punct	_	_
+9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	The	The	PROPN	_	Foreign=Yes|NameType=Oth	3	parataxis	_	_
+11	Future	Future	PROPN	_	Foreign=Yes|NameType=Oth	10	flat	_	_
+12	You	You	PROPN	_	Foreign=Yes|NameType=Oth	11	flat	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	10	punct	_	_
+14	-	-	PUNCT	_	_	3	punct	_	_
+15	bởi lẽ	bởi lẽ	SCONJ	_	_	20	mark	_	_
+16	việc	việc	NOUN	_	_	17	compound	_	_
+17	hướng	hướng	VERB	_	_	20	csubj	_	_
+18	đến	đến	ADP	_	_	19	case	_	_
+19	tương lai	tương lai	NOUN	_	_	17	obl	_	_
+20	cho	cho	VERB	_	_	3	advcl	_	_
+21	ta	ta	PRON	_	Number=Plur|Person=1|PronType=Prs	20	iobj	_	_
+22	cơ hội	cơ hội	NOUN	_	_	20	obj	_	_
+23	tranh luận	tranh luận	VERB	_	_	22	xcomp	_	_
+24	ở	ở	ADP	_	_	25	case	_	_
+25	hiện tại	hiện tại	NOUN	_	_	23	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	cho	cho	VERB	_	_	20	parataxis	_	_
+28	ta	ta	PRON	_	Number=Plur|Person=1|PronType=Prs	27	obj	_	_
+29	nhìn	nhìn	VERB	_	_	27	xcomp	_	_
+30	tương lai	tương lai	NOUN	_	_	29	obj	_	_
+31	qua	qua	ADP	_	_	32	case	_	_
+32	lăng kính	lăng kính	NOUN	_	_	29	obl	_	_
+33	của	của	ADP	_	_	35	case	_	_
+34	từng	từng	DET	_	_	35	det	_	_
+35	người	người	NOUN	_	_	32	nmod:poss	_	_
+36	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-36186
+# text = Vậy nên tôi bắt tay viết chương trình này và tôi tung ra nó ngay trước kỳ nghỉ năm 2010 .
+# text_eng = So I went to work programming it, and I released it just before the holidays in 2010 .
+# missing punctuation in viet sentence fixed
+1	Vậy	vậy	PART	_	_	4	discourse	_	_
+2	nên	nên	SCONJ	_	_	4	mark	_	_
+3	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	bắt tay	bắt tay	VERB	_	_	0	root	_	_
+5	viết	viết	VERB	_	_	4	xcomp	_	_
+6	chương trình	chương trình	NOUN	_	_	5	obj	_	_
+7	này	này	DET	_	PronType=Dem	6	det	_	_
+8	và	và	SCONJ	_	_	10	cc	_	_
+9	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	tung ra	tung ra	VERB	_	_	4	conj	_	_
+11	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	ngay	ngay	ADV	_	_	14	advmod	_	_
+13	trước	trước	ADP	_	_	14	case	_	_
+14	kỳ	kỳ	NOUN	_	_	10	obl	_	_
+15	nghỉ	nghỉ	VERB	_	_	14	acl:relcl	_	_
+16	năm	năm	NOUN	_	_	14	compound	_	_
+17	2010	2010	NUM	_	_	16	compound	_	_
+18	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-52258
+# text = Đây là vị trí mục tiêu, suối nước nóng sâu nhất thế giới tại Cenote Zacaton phía bắc Mexico .
+# text_eng = This is the target site, the world's deepest hydrothermal spring at Cenote Zacaton in northern Mexico .
+1	Đây	đây	PRON	_	Deixis=Prox|PronType=Dem	3	nsubj	_	_
+2	là	là	AUX	_	VerbType=Cop	3	cop	_	_
+3	vị trí	vị trí	NOUN	_	_	0	root	_	_
+4	mục tiêu	mục tiêu	NOUN	_	_	3	compound	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	suối	suối	NOUN	_	_	3	appos	_	_
+7	nước	nước	NOUN	_	_	6	compound	_	_
+8	nóng	nóng	ADJ	_	_	7	amod	_	_
+9	sâu	sâu	ADJ	_	_	6	amod	_	_
+10	nhất	nhất	ADV	_	AdvType=Deg	9	advmod	_	_
+11	thế giới	thế giới	NOUN	_	_	6	nmod:poss	_	_
+12	tại	tại	ADP	_	_	14	case	_	_
+13	Cenote	Cenote	PROPN	_	Foreign=Yes|NameType=Geo	14	compound	_	_
+14	Zacaton	Zacaton	PROPN	_	Foreign=Yes|NameType=Geo	6	nmod	_	_
+15	phía	phía	NOUN	_	_	14	nmod	_	_
+16	bắc	bắc	ADJ	_	_	15	amod	_	_
+17	Mexico	Mexico	PROPN	_	NameType=Geo|Typo=Yes	15	nmod	_	CorrectForm=México
+18	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-290604
+# text = Đừng chỉ nghĩ "Tôi có lòng từ bi" hoặc" tôi không từ bi" và nghĩ rằng bạn mắc kẹt ở đó .
+# text_eng = Don't just think, "Well, I'm compassionate" or "I'm not compassionate" and sort of think you're stuck there .
+# commas in "I'm compassionate," and "I'm not compassionate," in viet and eng sentence removed
+1	Đừng	đừng	ADV	_	AdvType=Mod|Mood=Imp|Polarity=Neg	3	advmod	_	_
+2	chỉ	chỉ	ADV	_	AdvType=Mod	3	advmod	_	_
+3	nghĩ	nghĩ	VERB	_	_	0	root	_	_
+4	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	có	có	VERB	_	_	3	ccomp	_	_
+7	lòng	lòng	NOUN	_	_	6	obj	_	_
+8	từ bi	từ bi	ADJ	_	_	7	amod	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	_
+10	hoặc	hoặc	CCONJ	_	_	14	cc	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	14	punct	_	_
+12	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	không	không	ADV	_	Polarity=Neg	14	advmod	_	_
+14	từ bi	từ bi	ADJ	_	_	8	conj	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	_
+16	và	và	CCONJ	_	_	17	cc	_	_
+17	nghĩ	nghĩ	VERB	_	_	3	conj	_	_
+18	rằng	rằng	SCONJ	_	_	20	mark	_	_
+19	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
+20	mắc kẹt	mắc kẹt	VERB	_	_	17	ccomp	_	_
+21	ở	ở	ADP	_	_	22	case	_	_
+22	đó	đó	PRON	_	Deixis=Remt|PronType=Dem	20	obl	_	_
+23	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-105637
+# text = Lớn lên, chỉ có sáu người Ả Rập trong thành phố của tôi, và tất cả họ đều là thành viên trong gia đình tôi .
+# text_eng = Growing up, there were only six Arabs in my town, and they were all my family .
+# '(Laughter)' in eng sentence-initial removed
+1	Lớn	lớn	ADJ	_	_	2	amod	_	_
+2	lên	lên	VERB	_	_	5	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	chỉ	chỉ	ADV	_	AdvType=Mod	5	advmod	_	_
+5	có	có	VERB	_	_	0	root	_	_
+6	sáu	sáu	NUM	_	NumType=Card	7	nummod	_	_
+7	người	người	NOUN	_	_	5	nsubj	_	_
+8	Ả Rập	Ả Rập	PROPN	_	NameType=Nat	7	nmod	_	_
+9	trong	trong	ADP	_	_	10	case	_	_
+10	thành phố	thành phố	NOUN	_	_	7	nmod	_	_
+11	của	của	ADP	_	_	12	case	_	_
+12	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nmod:poss	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	và	và	CCONJ	_	_	19	cc	_	_
+15	tất cả	tất cả	DET	_	PronType=Tot	16	det	_	_
+16	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+17	đều	đều	ADV	_	_	19	advmod	_	_
+18	là	là	AUX	_	VerbType=Cop	19	cop	_	_
+19	thành viên	thành viên	NOUN	_	_	5	conj	_	_
+20	trong	trong	ADP	_	_	21	case	_	_
+21	gia đình	gia đình	NOUN	_	_	19	nmod	_	_
+22	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nmod:poss	_	_
+23	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-260214
+# text = Đã có hàng trăm triệu động cơ đốt trong được xây dựng so với hàng nghìn động cơ Stirling .
+# text_eng = There have been hundreds of millions of internal combustion engines built, compared to thousands of Stirling engines built .
+# missing punctuation in viet sentence fixed
+# preposition 'trong' ('in'/'into'/'inside') behaves like an adverb ('inside')
+# 'hàng' is arithmetic / an integer place; is used in front of figures to denote severalty
+1	Đã	đã	ADV	_	AdvType=Tim|Tense=Past	2	advmod	_	_
+2	có	có	VERB	_	_	0	root	_	_
+3	hàng	hàng	NOUN	_	_	2	nsubj	_	_
+4	trăm	trăm	NUM	_	_	5	compound	_	_
+5	triệu	triệu	NUM	_	_	6	nummod	_	_
+6	động cơ	động cơ	NOUN	_	_	3	nmod	_	_
+7	đốt	đốt	VERB	_	_	6	xcomp	_	_
+8	trong	trong	ADV	_	AdvType=Loc	7	advmod	_	_
+9	được	được	AUX	_	VerbType=Aux|Voice=Pass	10	aux:pass	_	_
+10	xây dựng	xây dựng	VERB	_	_	6	acl	_	_
+11	so	so	VERB	_	_	10	advcl	_	_
+12	với	với	ADP	_	_	13	case	_	_
+13	hàng nghìn	hàng nghìn	NOUN	_	_	11	obl	_	_
+14	động cơ	động cơ	NOUN	_	_	13	nmod	_	_
+15	Stirling	Stirling	PROPN	_	NameType=Pro	14	compound	_	_
+16	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-92784.1
+# text = Chúng ta phải làm gì ?
+# text_eng = What are we to do ?
+# sentence 80 & 81 are put together in the sources; they are split here 
+1	Chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	phải	phải	AUX	_	VerbType=Mod	3	aux	_	_
+3	làm	làm	VERB	_	_	0	root	_	_
+4	gì	gì	PRON	_	PronType=Int	3	obj	_	_
+5	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-92784.2
+# text = Chúng ta đang đối mặt với một nghịch lý .
+# text_eng = We are faced with a paradox .
+# sentence 80 & 81 are put together in the sources; they are split here 
+1	Chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	đang	đang	ADV	_	AdvType=Tim|Tense=Pres	3	advmod	_	_
+3	đối mặt	đối mặt	VERB	_	_	0	root	_	_
+4	với	với	ADP	_	_	6	case	_	_
+5	một	một	NUM	_	NumType=Card	6	nummod	_	_
+6	nghịch lý	nghịch lý	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-263388
+# text = Và vì thế, vào năm 2004, họ yêu cầu chúng tôi quay thử Benjamin .
+# text_eng = And so, in 2004, they commissioned us to do a screen test of Benjamin .
+1	Và	và	CCONJ	_	_	9	cc	_	_
+2	vì thế	vì thế	ADV	_	AdvType=Cau	9	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	vào	vào	ADP	_	_	5	case	_	_
+5	năm	năm	NOUN	_	_	9	obl	_	_
+6	2004	2004	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	yêu cầu	yêu cầu	VERB	_	_	0	root	_	_
+10	chúng tôi	chúng tôi	PRON	_	Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+11	quay	quay	VERB	_	_	9	xcomp	_	_
+12	thử	thử	VERB	_	_	11	xcomp	_	_
+13	Benjamin	Benjamin	PROPN	_	NameType=Prs	12	obj	_	_
+14	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-292095
+# text = Tôi đã gặp Sanghamitra tám năm trước đây khi tôi ở Bangalore tổ chức một hội thảo với các lãnh đạo của các tổ chức phi chính phủ khác nhau làm việc trong những lĩnh vực nan giải nhất của xã hội .
+# text_eng = I met Sanghamitra eight years ago when I was in Bangalore organizing a workshop with leaders of different NGO's working in some of the hardest aspects of society .
+# 'phi' is a prefix for negations, meaning 'not', 'without', '-less' & precedes nouns
+# 'chính phủ' then means 'government'
+1	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	đã	đã	ADV	_	AdvType=Tim|Tense=Past	3	advmod	_	_
+3	gặp	gặp	VERB	_	_	0	root	_	_
+4	Sanghamitra	Sanghamitra	PROPN	_	NameType=Prs	3	obj	_	_
+5	tám	tám	NUM	_	NumType=Card	6	nummod	_	_
+6	năm	năm	NOUN	_	_	7	obl:tmod	_	_
+7	trước đây	trước đây	ADV	_	AdvType=Tim	3	advmod	_	_
+8	khi	khi	ADV	_	_	11	advmod	_	_
+9	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	ở	ở	ADP	_	_	11	case	_	_
+11	Bangalore	Bangalore	PROPN	_	NameType=Geo	3	advcl	_	_
+12	tổ chức	tổ chức	VERB	_	_	11	advcl	_	_
+13	một	một	NUM	_	NumType=Card	14	nummod	_	_
+14	hội thảo	hội thảo	NOUN	_	_	12	obj	_	_
+15	với	với	ADP	_	_	17	case	_	_
+16	các	các	DET	_	Number=Plur	17	det	_	_
+17	lãnh đạo	lãnh đạo	NOUN	_	_	14	nmod	_	_
+18	của	của	ADP	_	_	20	case	_	_
+19	các	các	DET	_	Number=Plur	20	det	_	_
+20	tổ chức	tổ chức	NOUN	_	_	17	nmod	_	_
+21	phi	phi	PART	_	Polarity=Neg	22	compound	_	_
+22	chính phủ	chính phủ	NOUN	_	_	20	compound	_	_
+23	khác nhau	khác nhau	ADJ	_	_	20	amod	_	_
+24	làm việc	làm việc	VERB	_	_	20	acl	_	_
+25	trong	trong	ADP	_	_	27	case	_	_
+26	những	những	DET	_	_	27	det	_	_
+27	lĩnh vực	lĩnh vực	NOUN	_	_	24	obl	_	_
+28	nan giải	nan giải	ADJ	_	_	27	amod	_	_
+29	nhất	nhất	ADV	_	AdvType=Deg	28	advmod	_	_
+30	của	của	ADP	_	_	31	case	_	_
+31	xã hội	xã hội	NOUN	_	_	27	nmod	_	_
+32	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-305025
+# text = Hàng trăm hàng ngàn cái chết không cần thiết ở một nước đã bị mắc bệnh dịch hạch tệ hại hơn bất cứ loại dịch nào .
+# text_eng = Hundreds of thousands of needless deaths in a country that has been plagued worse than any other by this disease .
+# missing punctuation in viet sentence fixed
+# '1' replaced with 'một'
+# 'cái chết' means 'deaths', so in this case, 'cái' is not a classifier as assumed at first glance
+# 'hàng' is arithmetic / an integer place; is used in front of figures to denote severalty
+1	Hàng	hàng	NOUN	_	_	0	root	_	_
+2	trăm	trăm	NUM	_	_	3	nummod	_	_
+3	hàng	hàng	NOUN	_	_	1	nmod	_	_
+4	ngàn	ngàn	NUM	_	_	5	nummod	_	_
+5	cái chết	cái chết	NOUN	_	_	3	nmod	_	_
+6	không	không	ADV	_	Polarity=Neg	7	advmod	_	_
+7	cần thiết	cần thiết	ADJ	_	_	5	amod	_	_
+8	ở	ở	ADP	_	_	10	case	_	_
+9	một	một	NUM	_	NumType=Card	10	nummod	_	_
+10	nước	nước	NOUN	_	_	5	nmod	_	_
+11	đã	đã	ADV	_	AdvType=Tim|Tense=Past	13	advmod	_	_
+12	bị	bị	AUX	_	VerbType=Mod|Voice=Pass	13	aux:pass	_	_
+13	mắc	mắc	VERB	_	_	10	acl:relcl	_	_
+14	bệnh	bệnh	NOUN	_	_	15	clf	_	_
+15	dịch hạch	dịch hạch	NOUN	_	_	13	obj	_	_
+16	tệ	tệ	ADV	_	_	17	advmod	_	_
+17	hại	hại	VERB	_	_	15	acl:relcl	_	_
+18	hơn	hơn	ADP	_	_	20	case	_	_
+19	bất cứ	bất cứ	DET	_	_	20	det	_	_
+20	loại	loại	NOUN	_	_	17	obl	_	_
+21	dịch	dịch	NOUN	_	_	20	compound	_	_
+22	nào	nào	PRON	_	PronType=Ind	20	det	_	_
+23	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-217509
+# text = Những điều này cho thấy trí nhớ của voi không chỉ là những phản ứng đối với ngoại cảnh .
+# text_eng = All of this shows that elephant memory is more than just reactions to the external environment .
+# eng translation changed a bit
+1	Những	những	DET	_	_	2	det	_	_
+2	điều	điều	NOUN	_	_	4	nsubj	_	_
+3	này	này	DET	_	PronType=Dem	2	det	_	_
+4	cho thấy	cho thấy	VERB	_	_	0	root	_	_
+5	trí nhớ	trí nhớ	NOUN	_	_	12	nsubj	_	_
+6	của	của	ADP	_	_	7	case	_	_
+7	voi	voi	NOUN	_	_	5	nmod:poss	_	_
+8	không	không	ADV	_	Polarity=Neg	12	advmod	_	_
+9	chỉ	chỉ	ADV	_	AdvType=Mod	12	advmod	_	_
+10	là	là	AUX	_	_	12	cop	_	_
+11	những	những	DET	_	_	12	det	_	_
+12	phản ứng	phản ứng	NOUN	_	_	4	ccomp	_	_
+13	đối với	đối với	ADP	_	_	15	case	_	_
+14	ngoại	ngoại	NOUN	_	_	15	compound	_	_
+15	cảnh	cảnh	NOUN	_	_	12	nmod	_	_
+16	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-238604.2
+# text = Nó không tương tác với quang phổ điện từ, thứ chúng ta dùng để phát hiện các sự vật .
+# text_eng = It doesn't interact with the electromagnetic spectrum, which is what we use to detect things .
+# viet sentence contained two sentences; first one removed for better alignment
+1	Nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	không	không	ADV	_	Polarity=Neg	3	advmod	_	_
+3	tương tác	tương tác	VERB	_	_	0	root	_	_
+4	với	với	ADP	_	_	5	case	_	_
+5	quang phổ	quang phổ	NOUN	_	_	3	obl	_	_
+6	điện từ	điện từ	ADJ	_	_	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	thứ	thứ	NOUN	_	_	10	obj	_	_
+9	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+10	dùng	dùng	VERB	_	_	5	acl:relcl	_	_
+11	để	để	ADP	_	_	12	mark	_	_
+12	phát hiện	phát hiện	VERB	_	_	10	advcl	_	_
+13	các	các	DET	_	Number=Plur	14	det	_	_
+14	sự vật	sự vật	NOUN	_	_	12	obj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-76099
+# text = Nhìn từ một góc độ nào đó, việc này trở nên lớn lao .
+# text_eng = From a certain perspective, this becomes great .
+# eng translation slightly changed
+1	Nhìn	nhìn	VERB	_	_	10	advcl	_	_
+2	từ	từ	ADP	_	_	4	case	_	_
+3	một	một	NUM	_	NumType=Card	4	nummod	_	_
+4	góc độ	góc độ	NOUN	_	_	1	obl	_	_
+5	nào	nào	PRON	_	PronType=Ind	4	det	_	_
+6	đó	đó	DET	_	Deixis=Remt|PronType=Dem	4	det	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	việc	việc	NOUN	_	_	10	nsubj	_	_
+9	này	này	DET	_	PronType=Dem	8	det	_	_
+10	trở nên	trở nên	VERB	_	_	0	root	_	_
+11	lớn lao	lớn lao	ADJ	_	_	10	xcomp	_	_
+12	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-149565
+# text = Chúng ta vượt xa sự phê bình hợp lý và có tính xây dựng, để mổ xẻ tính nữ quyền của một phụ nữ nào đó, rồi làm tan nát cho đến mức không còn gì .
+# text_eng = We go far beyond reasonable, constructive criticism, to dissecting any given woman's feminism, tearing it apart until there's nothing left .
+# 'tính' means 'disposition (of people)/nature/character/temperament'
+# 'nữ' means 'female' (adj)
+# 'quyền' means 'right/power'
+# 'tính nữ quyền' means 'feminism'
+1	Chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	vượt	vượt	VERB	_	_	0	root	_	_
+3	xa	xa	ADV	_	_	2	advmod	_	_
+4	sự	sự	NOUN	_	_	5	clf	_	_
+5	phê bình	phê bình	NOUN	_	_	2	obj	_	_
+6	hợp lý	hợp lý	ADJ	_	_	5	amod	_	_
+7	và	và	CCONJ	_	_	8	cc	_	_
+8	có	có	VERB	_	_	2	conj	_	_
+9	tính	tính	NOUN	_	_	8	obj	_	_
+10	xây dựng	xây dựng	ADJ	_	_	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	để	để	ADP	_	_	13	mark	_	_
+13	mổ xẻ	mổ xẻ	VERB	_	_	2	advcl	_	_
+14	tính	tính	NOUN	_	_	16	clf	_	_
+15	nữ	nữ	NOUN	_	_	16	compound	_	_
+16	quyền	quyền	NOUN	_	_	13	obj	_	_
+17	của	của	ADP	_	_	19	case	_	_
+18	một	một	NUM	_	NumType=Card	19	nummod	_	_
+19	phụ nữ	phụ nữ	NOUN	_	_	16	nmod	_	_
+20	nào	nào	PRON	_	PronType=Ind	19	det	_	_
+21	đó	đó	DET	_	Deixis=Remt|PronType=Dem	19	det	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	rồi	rồi	ADV	_	_	24	advmod	_	_
+24	làm	làm	VERB	_	_	13	conj	_	_
+25	tan nát	tan nát	ADJ	_	_	24	xcomp	_	_
+26	cho đến	cho đến	ADP	_	_	27	case	_	_
+27	mức	mức	NOUN	_	_	24	obl	_	_
+28	không	không	ADV	_	Polarity=Neg	29	advmod	_	_
+29	còn	còn	VERB	_	_	27	acl:relcl	_	_
+30	gì	gì	PRON	_	PronType=Ind	29	nsubj:pass	_	_
+31	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-101969
+# text = Bạn sẽ nghe về băng đảng Los Zetas, băng đảng Knights Templar, đó là tên mới của Famillia Michoacana mà tôi nói ở đầu và băng đảng Sinaloa Federation .
+# text_eng = You will hear about Los Zetas, the Knights Templar, which is the new brand for the Familia Michoacana that I spoke about at the beginning, and the Sinaloa Federation .
+1	Bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	3	advmod	_	_
+3	nghe	nghe	VERB	_	_	0	root	_	_
+4	về	về	ADP	_	_	5	case	_	_
+5	băng	băng	NOUN	_	_	3	obl	_	_
+6	đảng	đảng	NOUN	_	_	5	compound	_	_
+7	Los	Los	PROPN	_	Foreign=Yes|NameType=Oth	5	compound	_	_
+8	Zetas	Zetas	PROPN	_	Foreign=Yes|NameType=Oth	7	flat	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	băng	băng	NOUN	_	_	5	conj	_	_
+11	đảng	đảng	NOUN	_	_	10	compound	_	_
+12	Knights	Knights	PROPN	_	Foreign=Yes|NameType=Oth	10	compound	_	_
+13	Templar	Templar	PROPN	_	Foreign=Yes|NameType=Oth	12	flat	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	đó	đó	PRON	_	Deixis=Remt|PronType=Dem	17	nsubj	_	_
+16	là	là	AUX	_	VerbType=Cop	17	cop	_	_
+17	tên	tên	NOUN	_	_	5	acl:relcl	_	_
+18	mới	mới	ADJ	_	_	17	amod	_	_
+19	của	của	ADP	_	_	20	case	_	_
+20	Famillia	Famillia	PROPN	_	Foreign=Yes|NameType=Oth	17	nmod	_	_
+21	Michoacana	Michoacana	PROPN	_	Foreign=Yes|NameType=Oth	20	flat	_	_
+22	mà	mà	PRON	_	PronType=Rel	24	obl	_	_
+23	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
+24	nói	nói	VERB	_	_	20	acl:relcl	_	_
+25	ở	ở	ADP	_	_	26	case	_	_
+26	đầu	đầu	NOUN	_	_	24	obl	_	_
+27	và	và	CCONJ	_	_	28	cc	_	_
+28	băng	băng	NOUN	_	_	5	conj	_	_
+29	đảng	đảng	NOUN	_	_	28	compound	_	_
+30	Sinaloa	Sinaloa	PROPN	_	Foreign=Yes|NameType=Oth	28	compound	_	_
+31	Federation	Federation	PROPN	_	Foreign=Yes|NameType=Oth	30	flat	_	_
+32	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-79688
+# text = Bạn phải đến bác sĩ tâm lý hay nhà tâm thần học, thanh toán mười đô la và được chữa trị, cũng giống như khi bạn có một vết cắt trên tay .
+# text_eng = You have to go to a psychologist or psychiatrist, pay 10 dollar and get treated, just like if you had a cut on your hand .
+# '1' changed to 'một' in viet sentence
+# '10' changed to 'mười' in viet sentence
+# eng translation changed for better alignment
+1	Bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	phải	phải	AUX	_	VerbType=Mod	3	aux	_	_
+3	đến	đến	VERB	_	_	0	root	_	_
+4	bác sĩ	bác sĩ	NOUN	_	_	3	obj	_	_
+5	tâm lý	tâm lý	NOUN	_	_	4	compound	_	_
+6	hay	hay	CCONJ	_	_	7	cc	_	_
+7	nhà	nhà	NOUN	_	_	4	conj	_	_
+8	tâm thần học	tâm thần học	NOUN	_	_	7	compound	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	thanh toán	thanh toán	VERB	_	_	3	conj	_	_
+11	mười	mười	NUM	_	NumType=Card	12	nummod	_	_
+12	đô la	đô la	NOUN	_	_	10	obj	_	_
+13	và	và	CCONJ	_	_	15	cc	_	_
+14	được	được	AUX	_	Voice=Pass	15	aux:pass	_	_
+15	chữa trị	chữa trị	VERB	_	_	10	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	22	punct	_	_
+17	cũng	cũng	ADV	_	_	22	advmod	_	_
+18	giống	giống	ADJ	_	_	22	amod	_	_
+19	như	như	SCONJ	_	_	22	mark	_	_
+20	khi	khi	SCONJ	_	_	22	mark	_	_
+21	bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	22	nsubj	_	_
+22	có	có	VERB	_	_	15	advcl	_	_
+23	một	một	NUM	_	NumType=Card	25	nummod	_	_
+24	vết	vết	NOUN	_	_	23	clf	_	_
+25	cắt	cắt	NOUN	_	_	22	obj	_	_
+26	trên	trên	ADP	_	_	27	case	_	_
+27	tay	tay	NOUN	_	_	25	nmod	_	_
+28	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-241828
+# text = Tôi chỉ không vượt qua được nó -- Bạn có những cái ống khói nhỏ nhả khói đi .
+# text_eng = I just can't get over this -- that you've got these little chimneys sitting here smoking away .
+# missing punctuation in viet sentence fixed
+1	Tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	chỉ	chỉ	ADV	_	AdvType=Mod	4	advmod	_	_
+3	không	không	ADV	_	Polarity=Neg	4	advmod	_	_
+4	vượt qua	vượt qua	VERB	_	_	0	root	_	_
+5	được	được	AUX	_	VerbType=Mod	4	aux	_	_
+6	nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+7	--	--	PUNCT	_	_	4	punct	_	_
+8	Bạn	bạn	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+9	có	có	VERB	_	_	4	parataxis	_	_
+10	những	những	DET	_	_	12	det	_	_
+11	cái	cái	NOUN	_	_	10	clf	_	_
+12	ống khói	ống khói	NOUN	_	_	9	obj	_	_
+13	nhỏ	nhỏ	ADJ	_	_	12	amod	_	_
+14	nhả	nhả	VERB	_	_	12	acl:relcl	_	_
+15	khói	khói	NOUN	_	_	14	obj	_	_
+16	đi	đi	VERB	_	_	14	xcomp	_	_
+17	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-88817
+# text = Cách mà chúng ta trải nghiệm về thời gian trong games như trong những dạng khác về thiết kế tương tác thực sự rất tuyệt .
+# text_eng = The way we experience time in video games, as in other forms of interaction design, is really quite amazing .
+# 'Thời gian.' / 'Time.' as preceding sentence in viet & eng sentence removed
+1	Cách	cách	NOUN	_	_	19	nsubj	_	_
+2	mà	mà	PRON	_	PronType=Rel	4	obj	_	_
+3	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	trải nghiệm	trải nghiệm	VERB	_	_	1	acl:relcl	_	_
+5	về	về	ADP	_	_	6	case	_	_
+6	thời gian	thời gian	NOUN	_	_	4	obj	_	_
+7	trong	trong	ADP	_	_	8	case	_	_
+8	games	games	NOUN	_	_	6	obl	_	_
+9	như	như	SCONJ	_	_	12	case	_	_
+10	trong	trong	ADP	_	_	12	case	_	_
+11	những	những	DET	_	_	12	det	_	_
+12	dạng	dạng	NOUN	_	_	4	obl	_	_
+13	khác	khác	ADJ	_	_	12	amod	_	_
+14	về	về	ADP	_	_	15	case	_	_
+15	thiết kế	thiết kế	NOUN	_	_	12	nmod	_	_
+16	tương tác	tương tác	NOUN	_	_	15	compound	_	_
+17	thực sự	thực sự	ADV	_	_	19	advmod	_	_
+18	rất	rất	ADV	_	AdvType=Deg	19	advmod	_	_
+19	tuyệt	tuyệt	ADJ	_	_	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-158998
+# text = Và tôi sẽ nói rằng tôi tất nhiên hy vọng rằng các công nghệ khác cũng sẽ được xem xét như vậy, cũng như chúng ta sẽ muốn xem xét đến thứ gì có thể có tác động tiềm ẩn trong các lĩnh vực khác ngoài sinh học .
+# text_eng = And I would say that I certainly hope that other technologies will be considered in the same way, just as we would want to consider something that could have implications in other fields besides biology .
+# 'thứ gì' as fixed expression does not exist in dictionaries but only in separation & means 'something'
+1	Và	và	CCONJ	_	_	4	cc	_	_
+2	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	4	advmod	_	_
+4	nói	nói	VERB	_	_	0	root	_	_
+5	rằng	rằng	SCONJ	_	_	8	mark	_	_
+6	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	tất nhiên	tất nhiên	ADV	_	_	8	advmod	_	_
+8	hy vọng	hy vọng	VERB	_	_	4	ccomp	_	_
+9	rằng	rằng	SCONJ	_	_	16	mark	_	_
+10	các	các	DET	_	Number=Plur	11	det	_	_
+11	công nghệ	công nghệ	NOUN	_	_	16	nsubj:pass	_	_
+12	khác	khác	ADJ	_	_	11	amod	_	_
+13	cũng	cũng	ADV	_	_	16	advmod	_	_
+14	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	16	advmod	_	_
+15	được	được	AUX	_	VerbType=Aux|Voice=Pass	16	aux:pass	_	_
+16	xem xét	xem xét	VERB	_	_	8	ccomp	_	_
+17	như vậy	như vậy	ADV	_	_	16	advmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	16	punct	_	_
+19	cũng	cũng	ADV	_	_	23	advmod	_	_
+20	như	như	SCONJ	_	_	23	mark	_	_
+21	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	23	nsubj	_	_
+22	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	23	advmod	_	_
+23	muốn	muốn	VERB	_	VerbType=Mod	16	advcl	_	_
+24	xem xét	xem xét	VERB	_	_	23	xcomp	_	_
+25	đến	đến	ADP	_	_	26	case	_	_
+26	thứ	thứ	NOUN	_	_	27	clf	_	_
+27	gì	gì	PRON	_	PronType=Ind	24	obl	_	_
+28	có thể	có thể	AUX	_	Mood=Pot|VerbType=Mod	29	aux	_	_
+29	có	có	VERB	_	_	27	acl:relcl	_	_
+30	tác động	tác động	NOUN	_	_	29	obj	_	_
+31	tiềm ẩn	tiềm ẩn	ADJ	_	_	30	amod	_	_
+32	trong	trong	ADP	_	_	34	case	_	_
+33	các	các	DET	_	Number=Plur	34	det	_	_
+34	lĩnh vực	lĩnh vực	NOUN	_	_	30	nmod	_	_
+35	khác	khác	ADJ	_	_	34	amod	_	_
+36	ngoài	ngoài	ADP	_	_	37	case	_	_
+37	sinh học	sinh học	NOUN	_	_	35	obl	_	_
+38	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-228707
+# text = Có hai điều quan trọng phải biết về khoa học: Các định luật chúng ta học được qua kinh nghiệm và qua thí nghiệm .
+# text_eng = There are two important things to know about science: The laws we learn through experience and through experimentation .
+# eng translation changed a bit
+# comma removed before conjunction 'và' / 'and'
+1	Có	có	VERB	_	_	0	root	_	_
+2	hai	hai	NUM	_	NumType=Card	3	nummod	_	_
+3	điều	điều	NOUN	_	_	1	nsubj	_	_
+4	quan trọng	quan trọng	ADJ	_	_	3	amod	_	_
+5	phải	phải	AUX	_	_	6	aux	_	_
+6	biết	biết	VERB	_	_	3	acl	_	_
+7	về	về	ADP	_	_	8	case	_	_
+8	khoa học	khoa học	NOUN	_	_	6	obl	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	11	punct	_	_
+10	Các	các	DET	_	Number=Plur	11	det	_	_
+11	định luật	định luật	NOUN	_	_	3	appos	_	_
+12	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+13	học	học	VERB	_	_	11	acl:relcl	_	_
+14	được	được	AUX	_	VerbType=Mod	13	aux	_	_
+15	qua	qua	ADP	_	_	16	case	_	_
+16	kinh nghiệm	kinh nghiệm	NOUN	_	_	13	obl	_	_
+17	và	và	SCONJ	_	_	19	cc	_	_
+18	qua	qua	ADP	_	_	19	case	_	_
+19	thí nghiệm	thí nghiệm	VERB	_	_	16	conj	_	_
+20	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-173342
+# text = Đó chỉ là một phần của cuộc sống hàng ngày của họ .
+# text_eng = It was just part of their everyday life .
+1	Đó	đó	PRON	_	Deixis=Remt|PronType=Dem	5	nsubj	_	_
+2	chỉ	chỉ	ADV	_	AdvType=Mod	5	advmod	_	_
+3	là	là	AUX	_	VerbType=Cop	5	cop	_	_
+4	một	một	NUM	_	NumType=Card	5	nummod	_	_
+5	phần	phần	NOUN	_	_	0	root	_	_
+6	của	của	ADP	_	_	7	case	_	_
+7	cuộc sống	cuộc sống	NOUN	_	_	5	nmod	_	_
+8	hàng ngày	hàng ngày	ADJ	_	_	7	amod	_	_
+9	của	của	ADP	_	_	10	case	_	_
+10	họ	họ	PRON	_	Number=Plur|Person=3|PronType=Prs	7	nmod:poss	_	_
+11	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-293266
+# text = Và nếu có một siêu lỗ đen, chúng ta cần thừa nhận là rằng đó là lỗ đen ăn chay .
+# text_eng = And if there is a supermassive black hole, we need to assume that it is a vegetarian black hole .
+# eng translation slightly changed
+1	Và	và	CCONJ	_	_	10	cc	_	_
+2	nếu	nếu	SCONJ	_	_	3	mark	_	_
+3	có	có	VERB	_	_	10	advcl	_	_
+4	một	một	NUM	_	NumType=Card	6	nummod	_	_
+5	siêu	siêu	ADJ	_	_	6	amod	_	_
+6	lỗ	lỗ	NOUN	_	_	3	nsubj	_	_
+7	đen	đen	ADJ	_	_	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	chúng ta	chúng ta	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	cần	cần	VERB	_	VerbType=Mod	0	root	_	_
+11	thừa nhận	thừa nhận	VERB	_	_	10	xcomp	_	_
+12	là	là	AUX	_	VerbType=Cop	16	cop	_	_
+13	rằng	rằng	SCONJ	_	_	16	mark	_	_
+14	đó	đó	PRON	_	Deixis=Remt|PronType=Dem	16	nsubj	_	_
+15	là	là	AUX	_	VerbType=Cop	16	cop	_	_
+16	lỗ	lỗ	NOUN	_	_	11	ccomp	_	_
+17	đen	đen	ADJ	_	_	16	amod	_	_
+18	ăn	ăn	VERB	_	_	16	acl:relcl	_	_
+19	chay	chay	ADJ	_	_	18	xcomp	_	_
+20	.	.	PUNCT	.	_	10	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-239143
+# text = Khi rời khỏi, tôi đã thề với bản thân và tôi nghĩ "mình sẽ không bao giờ đi xin xỏ bất cứ thứ gì" .
+# text_eng = When I left, I swore to myself and I thought "I'll never beg for anything" .
+# capitalized 'Và' turned into lower case
+# missing punctuation in viet sentence fixed
+# eng translation changed a bit for better alignment
+# 'thứ gì' as fixed expression does not exist but only in separation & means 'something'
+1	Khi	khi	ADV	_	_	2	advmod	_	_
+2	rời khỏi	rời khỏi	VERB	_	_	6	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	đã	đã	ADV	_	AdvType=Tim|Tense=Past	6	advmod	_	_
+6	thề	thề	VERB	_	_	0	root	_	_
+7	với	với	ADP	_	_	8	case	_	_
+8	bản thân	bản thân	PRON	_	PronType=Prs|Reflex=Yes	6	obl	_	_
+9	và	và	CCONJ	_	_	11	cc	_	_
+10	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	nghĩ	nghĩ	VERB	_	_	6	conj	_	_
+12	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+13	mình	mình	PRON	_	PronType=Prs|Reflex=Yes	17	nsubj	_	_
+14	sẽ	sẽ	ADV	_	AdvType=Tim|Tense=Fut	17	advmod	_	_
+15	không	không	ADV	_	Polarity=Neg	17	advmod	_	_
+16	bao giờ	bao giờ	ADV	_	AdvType=Tim	17	advmod	_	_
+17	đi	đi	VERB	_	_	11	ccomp	_	_
+18	xin xỏ	xin xỏ	VERB	_	_	17	xcomp	_	_
+19	bất cứ	bất cứ	DET	_	_	21	det	_	_
+20	thứ	thứ	NOUN	_	_	21	clf	_	_
+21	gì	gì	PRON	_	PronType=Ind	18	obj	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	17	punct	_	_
+23	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-162398
+# text = Nó là một cuộc hành trình chạm tới giới hạn của con người, một cuộc hành trình đến những điều còn chưa biết .
+# text_eng = It is a journey to human limits, a journey to the unknown .
+# eng translation changed a bit for better alignment
+1	Nó	nó	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	là	là	AUX	_	VerbType=Cop	5	cop	_	_
+3	một	một	NUM	_	NumType=Card	5	nummod	_	_
+4	cuộc	cuộc	NOUN	_	_	3	clf	_	_
+5	hành trình	hành trình	NOUN	_	_	0	root	_	_
+6	chạm	chạm	VERB	_	_	5	acl	_	_
+7	tới	tới	ADP	_	_	8	case	_	_
+8	giới hạn	giới hạn	NOUN	_	_	6	obl	_	_
+9	của	của	ADP	_	_	11	case	_	_
+10	con	con	NOUN	_	_	11	clf	_	_
+11	người	người	NOUN	_	_	8	nmod:poss	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	một	một	NUM	_	NumType=Card	15	nummod	_	_
+14	cuộc	cuộc	NOUN	_	_	13	clf	_	_
+15	hành trình	hành trình	NOUN	_	_	5	appos	_	_
+16	đến	đến	ADP	_	_	18	case	_	_
+17	những	những	DET	_	_	18	det	_	_
+18	điều	điều	NOUN	_	_	15	nmod	_	_
+19	còn	còn	ADV	_	_	21	advmod	_	_
+20	chưa	chưa	ADV	_	Polarity=Neg	21	advmod	_	_
+21	biết	biết	VERB	_	_	18	acl:relcl	_	_
+22	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-162897
+# text = Chúng tôi có những cộng đồng những người đã bị sơ tán .
+# text_eng = We have communities who already have been dislocated .
+1	Chúng tôi	chúng tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	có	có	VERB	_	_	0	root	_	_
+3	những	những	DET	_	_	4	det	_	_
+4	cộng đồng	cộng đồng	NOUN	_	_	2	obj	_	_
+5	những	những	DET	_	_	6	det	_	_
+6	người	người	NOUN	_	_	4	nmod	_	_
+7	đã	đã	ADV	_	AdvType=Tim|Tense=Past	9	advmod	_	_
+8	bị	bị	AUX	_	VerbType=Mod|Voice=Pass	9	aux:pass	_	_
+9	sơ tán	sơ tán	VERB	_	_	6	acl:relcl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = TED2020-41321
+# text = Ý tôi là, khi còn là những bé gái, chúng ta bắt đầu một cách mạnh mẽ và đầy quyết tâm -- "Yeah, ai bảo đấy ? "
+# text_eng = I mean, when we were little girls, we started out strong and determined -- "Yeah, who said that ? "
+# eng translation changed a bit for better alignment
+1	Ý	ý	NOUN	_	_	13	nsubj:outer	_	_
+2	tôi	tôi	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nmod:poss	_	_
+3	là	là	AUX	_	VerbType=Cop	13	cop	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	13	punct	_	_
+5	khi	khi	ADV	_	_	10	advmod	_	_
+6	còn	còn	ADV	_	_	10	advmod	_	_
+7	là	là	AUX	_	VerbType=Cop	10	cop	_	_
+8	những	những	DET	_	_	10	det	_	_
+9	bé	bé	ADJ	_	_	10	amod	_	_
+10	gái	gái	NOUN	_	_	13	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	chúng ta	chúng ta	PRON	_	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+13	bắt đầu	bắt đầu	VERB	_	_	0	root	_	_
+14	một	một	NUM	_	NumType=Card	15	nummod	_	_
+15	cách	cách	NOUN	_	_	13	obj	_	_
+16	mạnh mẽ	mạnh mẽ	ADJ	_	_	15	amod	_	_
+17	và	và	CCONJ	_	_	19	cc	_	_
+18	đầy	đầy	ADV	_	_	19	advmod	_	_
+19	quyết tâm	quyết tâm	ADJ	_	_	15	conj	_	_
+20	--	--	PUNCT	_	_	13	punct	_	_
+21	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+22	Yeah	Yeah	INTJ	_	Foreign=Yes	25	discourse	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	ai	ai	PRON	_	PronType=Int	25	nsubj	_	_
+25	bảo	bảo	VERB	_	_	13	parataxis	_	_
+26	đấy	đấy	PART	_	_	25	discourse	_	_
+27	?	?	PUNCT	_	_	13	punct	_	_
+28	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+

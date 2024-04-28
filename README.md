@@ -1,6 +1,7 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+This treebank includes a set of sentences from [OPUS](https://opus.nlpl.eu/),
+sourced from subtitiles, talks, and educational videos.
 
 
 # Introduction
@@ -36,6 +37,6 @@ Features: manual native
 Relations: manual native
 Contributors: Do, Hoa; Çöltekin, Çağrı
 Contributing: here
-Contact: cagri.coeltekin@uni-tuebingen.de
+Contact: hoa.do@student.uni-tuebingen.de,cagri.coeltekin@uni-tuebingen.de
 ===============================================================================
 </pre>

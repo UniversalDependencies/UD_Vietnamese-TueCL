@@ -1,7 +1,7 @@
 # Summary
 
 This treebank includes a set of sentences from [OPUS](https://opus.nlpl.eu/),
-sourced from subtitiles, talks, and educational videos.
+sourced from subtitles, talks, and educational videos.
 
 
 # Introduction

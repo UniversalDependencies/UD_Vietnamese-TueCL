@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>100</sentences><tokens>1888</tokens><words>1888</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>100</sentences><tokens>1888</tokens><words>1888</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="723" /><!-- ., ,, tôi, là, một, và, có, của, không, những, ", đã, đó, được, chúng ta -->
+  <forms unique="723" /><!-- ., ,, tôi, là, một, và, có, của, không, những, ", đã, đó, được, chúng ta -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">82</tag><!-- khác, khác nhau, mới, phải, lớn, từ bi, tự do, đen, Anh, an toàn -->
+    <tag name="ADP">160</tag><!-- của, ở, về, trong, với, đến, hơn, như, vào, để -->
+    <tag name="ADV">187</tag><!-- không, đã, sẽ, chỉ, khi, cũng, nhất, đang, đều, hãy -->
+    <tag name="AUX">83</tag><!-- là, được, phải, có thể, bị, không thể, có vẻ, nghĩa là -->
+    <tag name="CCONJ">44</tag><!-- và, nhưng, hay, hoặc -->
+    <tag name="DET">84</tag><!-- những, này, các, đó, bất cứ, mọi, cả, một vài, cả hai, tất cả -->
+    <tag name="INTJ">4</tag><!-- Yeah, dù sao, không, rồi -->
+    <tag name="NOUN">380</tag><!-- người, điều, thứ, việc, băng, cách, cái, hàng, tham số, đảng -->
+    <tag name="NUM">58</tag><!-- một, hai, trăm, sáu, 10-25, 19, 2004, 2010, 50, mười -->
+    <tag name="PART">19</tag><!-- vậy, đấy, bộ, chứ, hề, mà, nhé, phi, phải, ra -->
+    <tag name="PRON">211</tag><!-- tôi, chúng ta, nó, bạn, mà, ta, gì, đó, họ, đây -->
+    <tag name="PROPN">55</tag><!-- Abdul, Arthur, Ba, Bangalore, Benjamin, Cenote, Châu Á, Con, Dolarhyde, F -->
+    <tag name="PUNCT">219</tag><!-- ., ,, ", ?, ..., –, :, !, - -->
+    <tag name="SCONJ">27</tag><!-- rằng, nếu, như, và, bởi lẽ, bởi vì, dù, khi, liệu, ngay khi -->
+    <tag name="VERB">275</tag><!-- có, làm, thấy, biết, nói, nghĩ, muốn, thích, đi, cho -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="55">
+    <feat name="Abbr" value="Yes" upos="ADV">1</feat><!-- ko -->
+    <feat name="AdvType" value="Cau" upos="ADV">2</feat><!-- vì sao, vì thế -->
+    <feat name="AdvType" value="Deg" upos="ADV">13</feat><!-- nhất, rất, khá, nhiều, quá, vô cùng -->
+    <feat name="AdvType" value="Loc" upos="ADV">2</feat><!-- ngoài, trong -->
+    <feat name="AdvType" value="Man" upos="ADV">1</feat><!-- sao -->
+    <feat name="AdvType" value="Mod" upos="ADV">17</feat><!-- chỉ, hãy, đừng, được -->
+    <feat name="AdvType" value="Tim" upos="ADV">51</feat><!-- đã, sẽ, đang, bao giờ, sắp, Hôm nay, bây giờ, mới, nay, rồi -->
+    <feat name="Case" value="Voc" upos="NOUN,PROPN">2</feat><!-- Arthur, vua -->
+    <feat name="Deixis" value="Prox" upos="DET,PRON">9</feat><!-- đây, này -->
+    <feat name="Deixis" value="Remt" upos="DET,PRON">22</feat><!-- đó, kia, đây -->
+    <feat name="Foreign" value="Yes" upos="INTJ,PROPN">22</feat><!-- Cenote, Famillia, Federation, Fordham, Four-six, Future, Knights, Los, Michoacana, Ops -->
+    <feat name="Gender" value="Fem" upos="PRON">3</feat><!-- cô ấy, cô -->
+    <feat name="Gender" value="Masc" upos="PRON">19</feat><!-- anh, cậu, hắn, ông, anh ta, Anh ấy, các anh, ông ấy -->
+    <feat name="Gender" value="Neut" upos="PRON">16</feat><!-- nó -->
+    <feat name="Mood" value="Imp" upos="ADV">5</feat><!-- hãy, đừng -->
+    <feat name="Mood" value="Pot" upos="AUX">11</feat><!-- có thể, không thể -->
+    <feat name="NameType" value="Com" upos="PROPN">5</feat><!-- Four-six, Google, Ops, Sergeant, Special -->
+    <feat name="NameType" value="Geo" upos="PROPN">11</feat><!-- Bangalore, Cenote, Florida, Fordham, Mexico, Parkway, River, Road, Thái Bình Dương, Zacaton -->
+    <feat name="NameType" value="Giv" upos="PROPN">4</feat><!-- Abdul, Gerda, Gregor, Jude -->
+    <feat name="NameType" value="Nat" upos="PROPN">4</feat><!-- Châu Á, Na Uy, Trung, Ả Rập -->
+    <feat name="NameType" value="Oth" upos="PROPN">14</feat><!-- F, Famillia, Federation, Future, Knights, Los, Michoacana, PhET, Sinaloa, Templar -->
+    <feat name="NameType" value="Pro" upos="PROPN">6</feat><!-- Ba, Giày, Lê, Stirling, Yêu, Đáng -->
+    <feat name="NameType" value="Prs" upos="PROPN">9</feat><!-- Arthur, Benjamin, Con, Dolarhyde, Leed, Sanghamitra, Sơ, Tony, Trai -->
+    <feat name="NameType" value="Sur" upos="PROPN">1</feat><!-- Nazari -->
+    <feat name="NounType" value="Clf" upos="NOUN">1</feat><!-- cái -->
+    <feat name="Number" value="Plur" upos="DET,PART,PRON">60</feat><!-- chúng ta, các, họ, ta, chúng tôi, chúng, các bạn, các anh, tụi -->
+    <feat name="Number" value="Sing" upos="PRON">99</feat><!-- tôi, nó, bạn, anh, cậu, hắn, ta, ông, anh ta, cô ấy -->
+    <feat name="NumType" value="Card" upos="NUM">51</feat><!-- một, hai, sáu, 19, 2004, 50, mười, tám -->
+    <feat name="NumType" value="Ord" upos="ADJ">1</feat><!-- đầu tiên -->
+    <feat name="Person" value="1" upos="PRON">76</feat><!-- tôi, chúng ta, ta, chúng tôi, em, tao -->
+    <feat name="Person" value="2" upos="PRON">30</feat><!-- bạn, cậu, anh, chúng, các bạn, ông, Mày, chúng ta, các anh, cô -->
+    <feat name="Person" value="3" upos="PRON">39</feat><!-- nó, họ, chúng, hắn, anh ta, cô ấy, Anh ấy, anh, ông, ông ấy -->
+    <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,INTJ,PART">41</feat><!-- không, không thể, chưa, chẳng, đừng, hề, ko, phi -->
+    <feat name="Polarity" value="Pos" upos="PART">1</feat><!-- phải -->
+    <feat name="Polite" value="Elev" upos="NOUN">1</feat><!-- vua -->
+    <feat name="Polite" value="Form" upos="PRON">5</feat><!-- cô ấy, Ngài, ông, ông ấy -->
+    <feat name="Polite" value="Infm" upos="PRON">11</feat><!-- nó, hắn, Mày, cậu, tao -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">46</feat><!-- đó, này, đây, kia, nay -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">18</feat><!-- gì, nào, ai, một vài, vài -->
+    <feat name="PronType" value="Int" upos="DET,PRON">6</feat><!-- ai, gì, đâu -->
+    <feat name="PronType" value="Prs" upos="PRON">152</feat><!-- tôi, chúng ta, nó, bạn, ta, họ, chúng tôi, chúng, anh, cậu -->
+    <feat name="PronType" value="Rcp" upos="PRON">2</feat><!-- nhau -->
+    <feat name="PronType" value="Rel" upos="PRON">16</feat><!-- mà, ai, gì -->
+    <feat name="PronType" value="Tot" upos="DET">5</feat><!-- cả hai, tất cả, mỗi -->
+    <feat name="Reflex" value="Yes" upos="PRON">6</feat><!-- mình, bản thân, tự -->
+    <feat name="Style" value="Arch" upos="PRON">4</feat><!-- ta -->
+    <feat name="Style" value="Arch,Vulg" upos="PRON">1</feat><!-- hắn -->
+    <feat name="Tense" value="Fut" upos="ADV">15</feat><!-- sẽ, sắp -->
+    <feat name="Tense" value="Past" upos="ADV">25</feat><!-- đã, mới, rồi, vừa -->
+    <feat name="Tense" value="Pres" upos="ADV">5</feat><!-- đang -->
+    <feat name="Typo" value="Yes" upos="NOUN,PART,PROPN,SCONJ,VERB">9</feat><!-- Mexico, bủa vây, dũa, sò, thi, trù khi, ván trược tuyết, xác xuất, ánh sánh -->
+    <feat name="VerbType" value="Aux" upos="AUX">19</feat><!-- được, phải, có vẻ, nghĩa là -->
+    <feat name="VerbType" value="Cop" upos="AUX">30</feat><!-- là -->
+    <feat name="VerbType" value="Mod" upos="AUX,VERB">38</feat><!-- có thể, muốn, thích, được, bị, phải, cần, không thể, biết -->
+    <feat name="Voice" value="Pass" upos="AUX">16</feat><!-- được, bị -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="39">
+    <dep name="acl">12</dep>
+    <dep name="acl:relcl">37</dep>
+    <dep name="advcl">39</dep>
+    <dep name="advmod">183</dep>
+    <dep name="amod">60</dep>
+    <dep name="appos">6</dep>
+    <dep name="aux">24</dep>
+    <dep name="aux:pass">16</dep>
+    <dep name="case">155</dep>
+    <dep name="cc">47</dep>
+    <dep name="ccomp">23</dep>
+    <dep name="clf">32</dep>
+    <dep name="compound">62</dep>
+    <dep name="compound:prt">6</dep>
+    <dep name="conj">55</dep>
+    <dep name="cop">38</dep>
+    <dep name="csubj">2</dep>
+    <dep name="det">88</dep>
+    <dep name="discourse">19</dep>
+    <dep name="fixed">6</dep>
+    <dep name="flat">17</dep>
+    <dep name="iobj">6</dep>
+    <dep name="mark">28</dep>
+    <dep name="nmod">64</dep>
+    <dep name="nmod:poss">19</dep>
+    <dep name="nmod:tmod">1</dep>
+    <dep name="nsubj">170</dep>
+    <dep name="nsubj:outer">3</dep>
+    <dep name="nsubj:pass">7</dep>
+    <dep name="nummod">55</dep>
+    <dep name="obj">119</dep>
+    <dep name="obl">82</dep>
+    <dep name="obl:tmod">6</dep>
+    <dep name="parataxis">16</dep>
+    <dep name="punct">219</dep>
+    <dep name="reparandum">2</dep>
+    <dep name="root">100</dep>
+    <dep name="vocative">4</dep>
+    <dep name="xcomp">60</dep>
+  </deps>
+</treebank>

@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Vietnamese-TueCL:
-commit db5c996d46f7e11690a85daa515f201d8327192e
+commit 620e1ca47bc7547a63468b723a832f3c509937f1
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 11:08:40 2024 +0200
+Date:   Sun May 5 13:39:26 2024 +0200
 Size: counted 1888 of 1888 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.27103613544662.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,10 @@ Udapi: found 345 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 1888 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-TueCL/vi_tuecl-ud-test.conllu
+[Line 473 Sent OpenSubtitles-802251 Node 19]: [L3 Warning leaf-clf] 'clf' not expected to have children (19:người:clf --> 18:là:cop)
+[Line 835 Sent QED-158395 Node 4]: [L3 Warning leaf-clf] 'clf' not expected to have children (4:cuộc:clf --> 3:vào:case)
+[Line 2238 Sent TED2020-158998 Node 26]: [L3 Warning leaf-clf] 'clf' not expected to have children (26:thứ:clf --> 25:đến:case)
+Warnings: 3
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.3) = 0.0230769230769231

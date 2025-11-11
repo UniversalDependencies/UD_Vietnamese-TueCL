@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Vietnamese-TueCL:
-commit ba71491d388000e3472c740a865b6db630417c9e
+commit 9dbd9819abc985589fec942fb27634d5160e4981
+Merge: de4256a 27cc1d9
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 16:49:20 2024 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'vi_tuecl'
+Language code (from CoNLL-U file name) = 'vi'
+Found the following data files: vi_tuecl-ud-test.conllu
 Size: counted 1888 of 1888 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.27103613544662.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,30 +23,35 @@ Features: 586 out of 1888 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        337
-Udapi: found 337 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 1888 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-TueCL/vi_tuecl-ud-test.conllu
-[Line 318 Sent OpenSubtitles-3426120 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'có qua có lại' does not have the 'ExtPos' feature
-[Line 343 Sent OpenSubtitles-3464331 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'ân đoạn nghĩa tuyệt' does not have the 'ExtPos' feature
-[Line 473 Sent OpenSubtitles-802251 Node 19]: [L3 Syntax leaf-clf] 'clf' not expected to have children (19:người:clf --> 18:là:cop)
-[Line 835 Sent QED-158395 Node 4]: [L3 Syntax leaf-clf] 'clf' not expected to have children (4:cuộc:clf --> 3:vào:case)
-[Line 2238 Sent TED2020-158998 Node 26]: [L3 Syntax leaf-clf] 'clf' not expected to have children (26:thứ:clf --> 25:đến:case)
-Syntax errors: 3
-Warnings: 2
-*** FAILED *** with 3 errors
+[Line 45 Sent OpenSubtitles-2911743]: [L3 Warning pron-det-without-prontype] The word 'các' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 132 Sent OpenSubtitles-2411759]: [L3 Warning pron-det-without-prontype] The word 'Những' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 184 Sent OpenSubtitles-360938]: [L3 Warning pron-det-without-prontype] The word 'cả' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 219 Sent OpenSubtitles-784358]: [L3 Warning pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 278 Sent OpenSubtitles-307527]: [L3 Warning pron-det-without-prontype] The word 'mấy' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 318 Sent OpenSubtitles-3426120]: [L3 Warning fixed-without-extpos] Fixed expression 'có qua có lại' does not have the 'ExtPos' feature
+[Line 343 Sent OpenSubtitles-3464331]: [L3 Warning fixed-without-extpos] Fixed expression 'ân đoạn nghĩa tuyệt' does not have the 'ExtPos' feature
+[Line 362 Sent OpenSubtitles-1115907]: [L3 Warning pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 439 Sent OpenSubtitles-1344287]: [L3 Warning pron-det-without-prontype] The word 'anh ta' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 473 Sent OpenSubtitles-802251]: [L3 Syntax leaf-clf] 'clf' not expected to have children (19:người:clf --> 18:là:cop)
+[Line 557 Sent OpenSubtitles-2979971]: [L3 Warning pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 835 Sent QED-158395]: [L3 Syntax leaf-clf] 'clf' not expected to have children (4:cuộc:clf --> 3:vào:case)
+[Line 2192 Sent TED2020-88817]: [L3 Syntax too-many-objects] Multiple direct objects [2, 6] ('mà', 'thời gian') under the predicate 'trải nghiệm'.
+[Line 2238 Sent TED2020-158998]: [L3 Syntax leaf-clf] 'clf' not expected to have children (26:thứ:clf --> 25:đến:case)
+Syntax errors: 4
+Warnings: 54
+*** FAILED *** with 4 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.3) = 0.0230769230769231
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.0920006633206834) = 0.0235899136719701
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.263775529151703) * (availability=1) * (validity=0.01) = 0.00263775529151703
+(weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.0920006633206834) = 0.0340743197484012
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
+(weight=0.111111111111111) * (score{udeprels}=0.837837837837838) = 0.0930930930930931
+(TOTAL score=0.376564653219127) * (availability=1) * (validity=0.01) = 0.00376564653219127
 STARS = 0
-UD_Vietnamese-TueCL	0.00263775529151703	0
+UD_Vietnamese-TueCL	0.00376564653219127	0

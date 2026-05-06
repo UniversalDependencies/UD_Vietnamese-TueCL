@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Vietnamese-TueCL:
-commit 9dbd9819abc985589fec942fb27634d5160e4981
-Merge: de4256a 27cc1d9
+commit c4461c65d4875a9bf85517ea83eae82e470cd198
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 21:01:22 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'vi_tuecl'
 Language code (from CoNLL-U file name) = 'vi'
@@ -25,24 +25,28 @@ Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-TueCL/vi_tuecl-ud-test.conllu
-[Line 45 Sent OpenSubtitles-2911743]: [L3 Warning pron-det-without-prontype] The word 'các' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 132 Sent OpenSubtitles-2411759]: [L3 Warning pron-det-without-prontype] The word 'Những' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 184 Sent OpenSubtitles-360938]: [L3 Warning pron-det-without-prontype] The word 'cả' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 219 Sent OpenSubtitles-784358]: [L3 Warning pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 278 Sent OpenSubtitles-307527]: [L3 Warning pron-det-without-prontype] The word 'mấy' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 318 Sent OpenSubtitles-3426120]: [L3 Warning fixed-without-extpos] Fixed expression 'có qua có lại' does not have the 'ExtPos' feature
-[Line 343 Sent OpenSubtitles-3464331]: [L3 Warning fixed-without-extpos] Fixed expression 'ân đoạn nghĩa tuyệt' does not have the 'ExtPos' feature
-[Line 362 Sent OpenSubtitles-1115907]: [L3 Warning pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 439 Sent OpenSubtitles-1344287]: [L3 Warning pron-det-without-prontype] The word 'anh ta' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 473 Sent OpenSubtitles-802251]: [L3 Syntax leaf-clf] 'clf' not expected to have children (19:người:clf --> 18:là:cop)
-[Line 557 Sent OpenSubtitles-2979971]: [L3 Warning pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 835 Sent QED-158395]: [L3 Syntax leaf-clf] 'clf' not expected to have children (4:cuộc:clf --> 3:vào:case)
-[Line 2192 Sent TED2020-88817]: [L3 Syntax too-many-objects] Multiple direct objects [2, 6] ('mà', 'thời gian') under the predicate 'trải nghiệm'.
-[Line 2238 Sent TED2020-158998]: [L3 Syntax leaf-clf] 'clf' not expected to have children (26:thứ:clf --> 25:đến:case)
-Syntax errors: 4
-Warnings: 54
-*** FAILED *** with 4 errors
+[Line 45 Sent OpenSubtitles-2911743]: [L3 WARNING pron-det-without-prontype] The word 'các' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 132 Sent OpenSubtitles-2411759]: [L3 WARNING pron-det-without-prontype] The word 'Những' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 184 Sent OpenSubtitles-360938]: [L3 WARNING pron-det-without-prontype] The word 'cả' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 219 Sent OpenSubtitles-784358]: [L3 WARNING pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 278 Sent OpenSubtitles-307527]: [L3 WARNING pron-det-without-prontype] The word 'mấy' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 318 Sent OpenSubtitles-3426120]: [L3 WARNING fixed-without-extpos] Fixed expression 'có qua có lại' does not have the 'ExtPos' feature
+[Line 343 Sent OpenSubtitles-3464331]: [L3 WARNING fixed-without-extpos] Fixed expression 'ân đoạn nghĩa tuyệt' does not have the 'ExtPos' feature
+[Line 362 Sent OpenSubtitles-1115907]: [L3 WARNING pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 439 Sent OpenSubtitles-1344287]: [L3 WARNING pron-det-without-prontype] The word 'anh ta' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 473 Sent OpenSubtitles-802251]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (19:người:clf --> 18:là:cop)
+[Line 557 Sent OpenSubtitles-2979971]: [L3 WARNING pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 595 Sent OpenSubtitles-1829810]: [L3 WARNING pron-det-without-prontype] The word 'Cha' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 597 Sent OpenSubtitles-1829810]: [L3 WARNING pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 835 Sent QED-158395]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (4:cuộc:clf --> 3:vào:case)
+[Line 1517 Sent QED-74500]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'ai') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2192 Sent TED2020-88817]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 6] ('mà', 'thời gian') under the predicate 'trải nghiệm'.
+[Line 2196 Sent TED2020-88817]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'thời gian') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2238 Sent TED2020-158998]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (26:thứ:clf --> 25:đến:case)
+Warnings: 52
+SYNTAX errors: 6
+*** FAILED *** with 6 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333

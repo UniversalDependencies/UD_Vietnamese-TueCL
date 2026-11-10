@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Vietnamese-TueCL:
-commit c4461c65d4875a9bf85517ea83eae82e470cd198
+commit 63a1328259a4cb67470338bc3b6104af7c18ee73
+Merge: c78e65c b6f6f51
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 21:01:22 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'vi_tuecl'
 Language code (from CoNLL-U file name) = 'vi'
@@ -40,13 +40,11 @@ Genres: found 1 out of 18 known.
 [Line 597 Sent OpenSubtitles-1829810]: [L3 WARNING pron-det-without-prontype] The word 'những' is tagged 'DET' but it lacks the 'PronType' feature
 ...suppressing further messages regarding WARNING/MORPHO
 [Line 835 Sent QED-158395]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (4:cuộc:clf --> 3:vào:case)
-[Line 1517 Sent QED-74500]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'ai') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 2192 Sent TED2020-88817]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 6] ('mà', 'thời gian') under the predicate 'trải nghiệm'.
-[Line 2196 Sent TED2020-88817]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'thời gian') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 2238 Sent TED2020-158998]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (26:thứ:clf --> 25:đến:case)
 Warnings: 52
-SYNTAX errors: 6
-*** FAILED *** with 6 errors
+SYNTAX errors: 4
+*** FAILED *** with 4 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
